@@ -1,4 +1,6 @@
-public class D01_ArrayReverse {
+package day01;
+
+public class ArrayReverse {
     public static void reverseArray(int[] arr) {
         for (int i = 0; i < arr.length / 2; i++) {
             int newArr = arr[i];
