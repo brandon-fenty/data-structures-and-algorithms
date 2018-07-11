@@ -5,6 +5,10 @@ import java.util.Arrays;
 import static java.lang.Math.ceil;
 
 public class ArrayShift {
+    public static void main(String[] args) {
+        int[] arr = {2, 4, 5};
+        insertShiftArray(arr, 4);
+    }
 
     public static void insertShiftArray(int[] firstArr, int newVal) {
         int length = firstArr.length;
