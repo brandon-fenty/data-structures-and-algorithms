@@ -1,4 +1,4 @@
-# Reverse an Array
+# Array Binary Search
 - Given a sorted array and a key value to search for, find the index of the key without using Java's built in functions
 
 ## Challenge
