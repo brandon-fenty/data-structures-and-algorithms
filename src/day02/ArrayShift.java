@@ -22,6 +22,7 @@ public class ArrayShift {
                 tempB[i - tempA.length] = firstArr[i];
             }
         }
+        // Create a new array here to add the temp arrays into with the new value
         System.out.println(Arrays.toString(tempA) + newVal + Arrays.toString(tempB));
     }
 }
