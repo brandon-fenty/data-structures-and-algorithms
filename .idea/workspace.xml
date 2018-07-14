@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2451a47b-02d9-4e24-b215-c3e84fd3b4a7" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day03/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day03/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day05/MatrixRotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day05/MatrixRotation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day05/MatrixRotationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day05/MatrixRotationTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02/ArrayShift.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day02/ArrayShift.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02/ArrayShiftTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day02/ArrayShiftTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day05/MatrixRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day05/MatrixRotation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day05/MatrixRotationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day05/MatrixRotationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day02/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/day02/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,13 +17,25 @@
       <file leaf-file-name="ArrayShift.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/day02/ArrayShift.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+            <state>
+              <caret column="14" selection-start-column="14" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArrayShiftTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/day02/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="165">
+                <caret line="8" column="70" selection-start-line="8" selection-start-column="70" selection-end-line="8" selection-end-column="70" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayShiftTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/day02/ArrayShiftTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="82">
@@ -69,8 +74,9 @@
         <option value="$PROJECT_DIR$/src/day04/README.md" />
         <option value="$PROJECT_DIR$/src/day05/MatrixRotation.java" />
         <option value="$PROJECT_DIR$/src/day05/MatrixRotationTest.java" />
-        <option value="$PROJECT_DIR$/src/day02/ArrayShift.java" />
         <option value="$PROJECT_DIR$/src/day02/ArrayShiftTest.java" />
+        <option value="$PROJECT_DIR$/src/day02/ArrayShift.java" />
+        <option value="$PROJECT_DIR$/src/day02/README.md" />
       </list>
     </option>
   </component>
@@ -310,12 +316,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MatrixRotationTest - 2018.07.13 at 14h 20m 07s.xml">
-      <configuration name="MatrixRotationTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MatrixRotationTest - 2018.07.13 at 14h 20m 24s.xml">
-      <configuration name="MatrixRotationTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="MatrixRotationTest - 2018.07.13 at 14h 20m 51s.xml">
       <configuration name="MatrixRotationTest" configurationId="JUnit" />
     </history-entry>
@@ -358,6 +358,12 @@
     <history-entry file="ArrayShiftTest - 2018.07.14 at 15h 50m 05s.xml">
       <configuration name="ArrayShiftTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ArrayShiftTest - 2018.07.14 at 15h 54m 19s.xml">
+      <configuration name="ArrayShiftTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayShiftTest - 2018.07.14 at 15h 54m 55s.xml">
+      <configuration name="ArrayShiftTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -371,9 +377,9 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24275862" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24275862" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.28551725" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.5213793" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32965517" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19466881" />
@@ -633,9 +639,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day02/README.md">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/day03/MyArrayList.java" />
     <entry file="file://$PROJECT_DIR$/src/day01/README.md">
       <provider selected="true" editor-type-id="text-editor">
@@ -698,13 +701,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day02/ArrayShift.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/day02/ArrayShiftTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="82">
@@ -712,6 +708,24 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day02/ArrayShift.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day02/README.md">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="165">
+            <caret line="8" column="70" selection-start-line="8" selection-start-column="70" selection-end-line="8" selection-end-column="70" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
