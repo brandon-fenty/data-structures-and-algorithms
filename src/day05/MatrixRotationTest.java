@@ -10,7 +10,6 @@ class MatrixRotationTest {
 
     @Test
     void rotateMatrix1() {
-
         int[][] aa = {
                 {1, 1, 1},
                 {2, 2, 2},
@@ -27,7 +26,6 @@ class MatrixRotationTest {
 
     @Test
     void rotateMatrix2() {
-
         int[][] aa = {
                 {3, 6, 9},
                 {3, 6, 9},
@@ -44,7 +42,6 @@ class MatrixRotationTest {
 
     @Test
     void rotateMatrixHedge() {
-
         int[][] aa = {
                 {1, 1, 1, 1},
                 {2, 2, 2, 2},
