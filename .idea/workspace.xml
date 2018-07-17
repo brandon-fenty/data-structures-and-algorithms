@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="2451a47b-02d9-4e24-b215-c3e84fd3b4a7" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day06/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day06/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day06/LinkedNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day06/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day06/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day06/LinkedListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day06/LinkedListTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day06/LinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day06/LinkedListTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,10 +16,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LinkedList.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LinkedList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/day06/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1418">
+            <state relative-caret-position="105">
               <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
               <folding>
                 <element signature="e#87#88#0" expanded="true" />
@@ -32,11 +31,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LinkedListTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="LinkedListTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/day06/LinkedListTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="45" selection-start-line="45" selection-end-line="45" />
+            <state relative-caret-position="84">
+              <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -180,33 +179,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LinkedListTest.prependOne">
-    <configuration name="AdjacentProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day04.AdjacentProduct" />
-      <module name="data-structures-and-algorithms" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day06.Main" />
-      <module name="data-structures-and-algorithms" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day06.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="JUnit.LinkedListTest.prependNothing">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="LinkedListTest.prepend" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LinkedListTest.emptySize" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="data-structures-and-algorithms" />
       <extension name="coverage">
         <pattern>
@@ -218,7 +195,30 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="day06" />
       <option name="MAIN_CLASS_NAME" value="day06.LinkedListTest" />
-      <option name="METHOD_NAME" value="prepend" />
+      <option name="METHOD_NAME" value="emptySize" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="LinkedListTest.prependNothing" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data-structures-and-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="day06" />
+      <option name="MAIN_CLASS_NAME" value="day06.LinkedListTest" />
+      <option name="METHOD_NAME" value="prependNothing" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -275,6 +275,29 @@
       </option>
       <patterns />
     </configuration>
+    <configuration name="LinkedListTest.size" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data-structures-and-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="day06" />
+      <option name="MAIN_CLASS_NAME" value="day06.LinkedListTest" />
+      <option name="METHOD_NAME" value="size" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -314,19 +337,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.AdjacentProduct" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="JUnit.LinkedListTest.prepend" />
       <item itemvalue="JUnit.LinkedListTest.prependTwo" />
       <item itemvalue="JUnit.LinkedListTest.prependOne" />
+      <item itemvalue="JUnit.LinkedListTest.size" />
+      <item itemvalue="JUnit.LinkedListTest.emptySize" />
+      <item itemvalue="JUnit.LinkedListTest.prependNothing" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LinkedListTest.prependNothing" />
         <item itemvalue="JUnit.LinkedListTest.prependOne" />
+        <item itemvalue="JUnit.LinkedListTest.emptySize" />
+        <item itemvalue="JUnit.LinkedListTest.size" />
         <item itemvalue="JUnit.LinkedListTest.prependTwo" />
-        <item itemvalue="JUnit.LinkedListTest.prepend" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.AdjacentProduct" />
       </list>
     </recent_temporary>
   </component>
@@ -344,53 +367,53 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MatrixRotationTest - 2018.07.14 at 15h 10m 39s.xml">
-      <configuration name="MatrixRotationTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArrayShiftTest - 2018.07.14 at 15h 10m 48s.xml">
-      <configuration name="ArrayShiftTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArrayShiftTest - 2018.07.14 at 15h 11m 08s.xml">
-      <configuration name="ArrayShiftTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArrayShiftTest - 2018.07.14 at 15h 43m 45s.xml">
-      <configuration name="ArrayShiftTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArrayShiftTest_insertShiftArray1 - 2018.07.14 at 15h 46m 50s.xml">
-      <configuration name="ArrayShiftTest.insertShiftArray1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArrayShiftTest_insertShiftArray1 - 2018.07.14 at 15h 47m 31s.xml">
-      <configuration name="ArrayShiftTest.insertShiftArray1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArrayShiftTest - 2018.07.14 at 15h 50m 05s.xml">
-      <configuration name="ArrayShiftTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArrayShiftTest - 2018.07.14 at 15h 54m 19s.xml">
-      <configuration name="ArrayShiftTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArrayShiftTest - 2018.07.14 at 15h 54m 55s.xml">
-      <configuration name="ArrayShiftTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LinkedListTest_prepend - 2018.07.17 at 12h 03m 47s.xml">
-      <configuration name="LinkedListTest.prepend" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LinkedListTest_prepend - 2018.07.17 at 12h 04m 25s.xml">
-      <configuration name="LinkedListTest.prepend" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LinkedListTest_prepend - 2018.07.17 at 12h 12m 07s.xml">
-      <configuration name="LinkedListTest.prepend" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LinkedListTest_prepend - 2018.07.17 at 12h 17m 30s.xml">
-      <configuration name="LinkedListTest.prepend" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LinkedListTest_prepend - 2018.07.17 at 12h 19m 53s.xml">
-      <configuration name="LinkedListTest.prepend" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="LinkedListTest_prependTwo - 2018.07.17 at 12h 20m 02s.xml">
       <configuration name="LinkedListTest.prependTwo" configurationId="JUnit" />
     </history-entry>
     <history-entry file="LinkedListTest_prependOne - 2018.07.17 at 12h 20m 07s.xml">
       <configuration name="LinkedListTest.prependOne" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LinkedListTest_size - 2018.07.17 at 12h 44m 28s.xml">
+      <configuration name="LinkedListTest.size" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LinkedListTest_emptySize - 2018.07.17 at 12h 45m 47s.xml">
+      <configuration name="LinkedListTest.emptySize" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LinkedListTest_emptySize - 2018.07.17 at 12h 46m 33s.xml">
+      <configuration name="LinkedListTest.emptySize" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LinkedListTest_prependOne - 2018.07.17 at 12h 47m 27s.xml">
+      <configuration name="LinkedListTest.prependOne" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LinkedListTest_prependNothing - 2018.07.17 at 12h 48m 34s.xml">
+      <configuration name="LinkedListTest.prependNothing" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LinkedListTest_prependNothing - 2018.07.17 at 12h 48m 37s.xml">
+      <configuration name="LinkedListTest.prependNothing" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LinkedListTest_prependNothing - 2018.07.17 at 12h 48m 54s.xml">
+      <configuration name="LinkedListTest.prependNothing" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LinkedListTest_prependNothing - 2018.07.17 at 12h 50m 44s.xml">
+      <configuration name="LinkedListTest.prependNothing" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LinkedListTest_prependNothing - 2018.07.17 at 12h 51m 58s.xml">
+      <configuration name="LinkedListTest.prependNothing" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LinkedListTest_prependNothing - 2018.07.17 at 12h 52m 55s.xml">
+      <configuration name="LinkedListTest.prependNothing" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LinkedListTest_prependNothing - 2018.07.17 at 12h 53m 18s.xml">
+      <configuration name="LinkedListTest.prependNothing" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LinkedListTest_prependNothing - 2018.07.17 at 12h 53m 30s.xml">
+      <configuration name="LinkedListTest.prependNothing" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LinkedListTest_prependNothing - 2018.07.17 at 12h 53m 49s.xml">
+      <configuration name="LinkedListTest.prependNothing" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LinkedListTest_prependNothing - 2018.07.17 at 12h 56m 25s.xml">
+      <configuration name="LinkedListTest.prependNothing" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -427,6 +450,11 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/day02/ArrayShiftTest.java">
@@ -740,16 +768,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day06/LinkedListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/day06/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1418">
+        <state relative-caret-position="105">
           <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
           <folding>
             <element signature="e#87#88#0" expanded="true" />
@@ -757,6 +778,13 @@
             <element signature="e#1962#1963#0" expanded="true" />
             <element signature="e#2002#2003#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day06/LinkedListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
         </state>
       </provider>
     </entry>
