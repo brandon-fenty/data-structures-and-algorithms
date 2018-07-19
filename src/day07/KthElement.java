@@ -1,6 +1,5 @@
 package day07;
 
-import day06.LinkedList;
 import day06.ListNode;
 
 public class KthElement {

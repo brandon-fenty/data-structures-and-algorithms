@@ -2,13 +2,21 @@ package day06;
 
 public class Main {
     public static void main(String[] args) {
-        LinkedList ll = new LinkedList();
 
-        if (ll.isEmpty()) {
-            System.out.println("Your list is empty");
-        }
+        LinkedList ll1 = new LinkedList();
+        LinkedList ll2 = new LinkedList();
 
-        System.out.println("Size of list: " + ll.size());
-        ll.printList();
+        ll1.prepend(1);
+        ll1.append(3);
+        ll1.append(2);
+
+        ll2.prepend(5);
+        ll2.append(9);
+        ll2.append(4);
+
+        ll1.printList();
+        System.out.println("");
+        ll2.printList();
+
     }
 }
