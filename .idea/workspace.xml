@@ -21,8 +21,8 @@
       <file leaf-file-name="LinkedList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/day06/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="120" column="9" lean-forward="true" selection-start-line="120" selection-start-column="9" selection-end-line="120" selection-end-column="9" />
+            <state relative-caret-position="208">
+              <caret line="147" column="62" selection-start-line="147" selection-start-column="62" selection-end-line="147" selection-end-column="62" />
               <folding>
                 <element signature="e#87#88#0" expanded="true" />
                 <element signature="e#119#120#0" expanded="true" />
@@ -44,7 +44,7 @@
         <entry file="file://$PROJECT_DIR$/src/day06/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="271">
-              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -111,8 +111,8 @@
         <option value="$PROJECT_DIR$/src/day07/KthElement.java" />
         <option value="$PROJECT_DIR$/src/day08/MergeLists.java" />
         <option value="$PROJECT_DIR$/src/day06/Main.java" />
-        <option value="$PROJECT_DIR$/src/day06/LinkedList.java" />
         <option value="$PROJECT_DIR$/src/day06/MergeListTest.java" />
+        <option value="$PROJECT_DIR$/src/day06/LinkedList.java" />
       </list>
     </option>
   </component>
@@ -386,15 +386,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="KthElementTest_kthElement - 2018.07.18 at 08h 37m 17s.xml">
-      <configuration name="KthElementTest.kthElement" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="KthElementTest_kthElement - 2018.07.18 at 08h 37m 55s.xml">
-      <configuration name="KthElementTest.kthElement" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="KthElementTest_kthElement - 2018.07.18 at 08h 39m 40s.xml">
-      <configuration name="KthElementTest.kthElement" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="KthElementTest - 2018.07.18 at 08h 39m 56s.xml">
       <configuration name="KthElementTest" configurationId="JUnit" />
     </history-entry>
@@ -434,10 +425,18 @@
     <history-entry file="KthElementTest - 2018.07.18 at 13h 33m 08s.xml">
       <configuration name="KthElementTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="MergeListTest_mergeListsTest - 2018.07.19 at 12h 05m 51s.xml">
+      <configuration name="MergeListTest.mergeListsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MergeListTest_mergeListsTest - 2018.07.19 at 12h 05m 55s.xml">
+      <configuration name="MergeListTest.mergeListsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MergeListTest_mergeListsTest - 2018.07.19 at 12h 06m 31s.xml">
+      <configuration name="MergeListTest.mergeListsTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -447,9 +446,9 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.020689655" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33655173" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.28551725" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.0" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32965517" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.226979" />
@@ -756,7 +755,7 @@
     <entry file="file://$PROJECT_DIR$/src/day06/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="271">
-          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
@@ -776,8 +775,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/day06/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="120" column="9" lean-forward="true" selection-start-line="120" selection-start-column="9" selection-end-line="120" selection-end-column="9" />
+        <state relative-caret-position="208">
+          <caret line="147" column="62" selection-start-line="147" selection-start-column="62" selection-end-line="147" selection-end-column="62" />
           <folding>
             <element signature="e#87#88#0" expanded="true" />
             <element signature="e#119#120#0" expanded="true" />
