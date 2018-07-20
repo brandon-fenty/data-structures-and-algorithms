@@ -194,15 +194,9 @@ public class LinkedList {
         ListNode cur2 = this.root;
 
         if (this.root.next != null) {
-            System.out.println("Initial current 1: " + cur1.data);
-            System.out.println("Initial current 2: " + cur2.data + "\n");
-
             while (cur1.next != null && cur2.next != null) {
                 cur1 = cur1.next.next;
                 cur2 = cur2.next;
-                System.out.println("current 1: " + cur1.data);
-                System.out.println("current 2: " + cur2.data);
-                System.out.println();
                 if (cur1 == cur2) {
                     loopDetected = true;
                     break;

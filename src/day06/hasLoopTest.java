@@ -30,8 +30,11 @@ class hasLoopTest {
         LinkedList ll = new LinkedList();
         ll.root = n1;
         boolean result = ll.hasLoop();
+        System.out.println("Has loop 1:");
+        System.out.println("expected: true");
         System.out.println("result: " + result);
         assertEquals(true, result);
+        System.out.println("------------");
     }
 
     @Test
@@ -55,8 +58,11 @@ class hasLoopTest {
         LinkedList ll = new LinkedList();
         ll.root = n1;
         boolean result = ll.hasLoop();
+        System.out.println("Has loop 2:");
+        System.out.println("expected: true");
         System.out.println("result: " + result);
         assertEquals(true, result);
+        System.out.println("------------");
     }
 
     @Test
@@ -77,19 +83,25 @@ class hasLoopTest {
         ll.root = n1;
 
         boolean result = ll.hasLoop();
+        System.out.println("No loop:");
+        System.out.println("expected: false");
         System.out.println("result: " + result);
         assertEquals(false, result);
+        System.out.println("------------");
     }
 
     @Test
     void empty () {
         ListNode n1 = new ListNode(0);
+
         LinkedList emptyList = new LinkedList();
         emptyList.root = n1;
-        System.out.println("Expected: false");
 
         boolean result = emptyList.hasLoop();
+        System.out.println("Empty:");
+        System.out.println("Expected: false");
         System.out.println("Result: " + result);
         assertEquals(false, result);
+        System.out.println("------------");
     }
 }

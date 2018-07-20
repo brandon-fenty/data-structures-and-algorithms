@@ -1,12 +1,20 @@
 package day01;
 
+import java.util.Arrays;
+
 public class ArrayReverse {
-    public static void reverseArray(int[] arr) {
-        for (int i = 0; i < arr.length / 2; i++) {
-            int newArr = arr[i];
-            arr[i] = arr[arr.length - i - 1];
-            arr[arr.length - i - 1] = newArr;
+
+    public static int[] reverseArray(int[] arr) {
+        System.out.println("Input: " + Arrays.toString(arr));
+        int[] tempArr = new int[arr.length];
+        int counter = 0;
+
+        for (int i = arr.length - 1; i >= 0; i--) {
+            tempArr[counter] = arr[i];
+            counter++;
         }
+
+        return tempArr;
     }
 }
 
