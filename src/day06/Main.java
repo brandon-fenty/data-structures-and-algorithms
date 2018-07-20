@@ -3,20 +3,21 @@ package day06;
 public class Main {
     public static void main(String[] args) {
 
-        LinkedList ll1 = new LinkedList();
-        LinkedList ll2 = new LinkedList();
+        ListNode n1 = new ListNode(1);
+        ListNode n2 = new ListNode(7);
+        ListNode n3 = new ListNode(2);
+        ListNode n4 = new ListNode(3);
+        ListNode n5 = new ListNode(5);
 
-        ll1.prepend(1);
-        ll1.append(3);
-        ll1.append(2);
+        n1.next = n2;
+        n2.next = n3;
+        n3.next = n4;
+        n4.next = n5;
+        n5.next = n2;
 
-        ll2.prepend(5);
-        ll2.append(9);
-        ll2.append(4);
+        LinkedList ll = new LinkedList();
+        ll.root = n1;
 
-        ll1.printList();
-        System.out.println("");
-        ll2.printList();
-
+        System.out.println(ll.hasLoop());
     }
 }

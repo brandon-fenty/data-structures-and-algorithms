@@ -111,6 +111,17 @@ public class LinkedList {
         return current.data;
     }
 
+    public String toString () {
+        String result = "";
+        ListNode current = this.root;
+
+        while (current != null) {
+            result += current.data + " -> ";
+            current = current.next;
+        }
+        return result;
+    }
+
     // Used to print out the entire linked list
     public void printList () {
         ListNode current = this.root;
@@ -145,8 +156,10 @@ public class LinkedList {
         ListNode cur1 = ll1.root;
         ListNode cur2 = ll2.root;
 
-        // set the root of the temp list to the root of list 1
-        temp.root = cur1;
+        // set the root of the temp list to the root of list 1 and create a new node
+        // with the
+        temp.root = new ListNode(cur1.data);
+        temp.append(cur2.data);
 
         // move through both lists and append each value to the temp list
         // one after the other
@@ -172,5 +185,24 @@ public class LinkedList {
             }
         }
         return temp;
+    }
+
+    // whiteboard 09 challenge
+    public boolean hasLoop () {
+        boolean loopDetected = false;
+        ListNode cur1 = this.root;
+        ListNode cur2 = this.root;
+
+        if (this.root.next != null) {
+            while (cur1.next != null && cur2.next != null) {
+                cur1 = cur1.next.next;
+                cur2 = cur2.next;
+                if (cur1 == cur2) {
+                    loopDetected = true;
+                    break;
+                }
+            }
+        }
+        return loopDetected;
     }
 }
