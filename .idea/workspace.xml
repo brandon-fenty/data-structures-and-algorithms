@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2451a47b-02d9-4e24-b215-c3e84fd3b4a7" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day06/LinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day06/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day06/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day06/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day06/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day06/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day06/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LinkedList.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="LinkedList.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/day06/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="217" column="29" selection-start-line="217" selection-start-column="29" selection-end-line="217" selection-end-column="29" />
+            <state relative-caret-position="1725">
+              <caret line="216" selection-start-line="216" selection-end-line="216" />
               <folding>
                 <element signature="e#87#88#0" expanded="true" />
                 <element signature="e#119#120#0" expanded="true" />
@@ -35,7 +31,7 @@
         <entry file="file://$PROJECT_DIR$/src/day10/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="225">
+              <first_editor relative-caret-position="165">
                 <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
               </first_editor>
               <second_editor />
@@ -43,10 +39,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReverseListTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ReverseListTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/day06/ReverseListTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8">
+            <state relative-caret-position="60">
               <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
             </state>
           </provider>
@@ -111,8 +107,8 @@
         <option value="$PROJECT_DIR$/src/day08/MergeLists.java" />
         <option value="$PROJECT_DIR$/src/day06/Main.java" />
         <option value="$PROJECT_DIR$/src/day10/README.md" />
-        <option value="$PROJECT_DIR$/src/day06/LinkedList.java" />
         <option value="$PROJECT_DIR$/src/day06/ReverseListTest.java" />
+        <option value="$PROJECT_DIR$/src/day06/LinkedList.java" />
       </list>
     </option>
   </component>
@@ -129,8 +125,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -165,6 +159,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -450,18 +446,17 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32965517" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29655173" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29655173" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.28551725" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.20137931" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25605816" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26009694" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -474,6 +469,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32965517" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -799,7 +795,7 @@
     <entry file="file://$PROJECT_DIR$/src/day10/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="225">
+          <first_editor relative-caret-position="165">
             <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
           </first_editor>
           <second_editor />
@@ -808,8 +804,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/day06/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="217" column="29" selection-start-line="217" selection-start-column="29" selection-end-line="217" selection-end-column="29" />
+        <state relative-caret-position="1725">
+          <caret line="216" selection-start-line="216" selection-end-line="216" />
           <folding>
             <element signature="e#87#88#0" expanded="true" />
             <element signature="e#119#120#0" expanded="true" />
@@ -819,7 +815,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/day06/ReverseListTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8">
+        <state relative-caret-position="60">
           <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
         </state>
       </provider>
