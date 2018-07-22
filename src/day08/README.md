@@ -12,4 +12,4 @@
 - Worked with Tara Johnson & Molly Kent to solve this problem
 
 ## Solution
-![](../assets/whiteboard-08-2.jpg)
+![](assets/whiteboard-08-2.jpg)
