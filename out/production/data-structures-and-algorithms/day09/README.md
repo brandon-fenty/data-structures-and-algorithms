@@ -10,4 +10,4 @@
 
 ## solution
 
-![](../assets/whiteboard-09.jpg)
+![](assets/whiteboard-09.jpg)

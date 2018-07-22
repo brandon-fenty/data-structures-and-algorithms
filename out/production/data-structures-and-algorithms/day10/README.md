@@ -13,4 +13,4 @@
 
 ## Solution
 
-![](../assets/whiteboard-10.jpg)
+![](assets/whiteboard-10.jpg)
