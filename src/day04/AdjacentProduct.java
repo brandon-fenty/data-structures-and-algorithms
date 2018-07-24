@@ -4,17 +4,6 @@ import java.util.Arrays;
 
 public class AdjacentProduct {
 
-    public static void main(String[] args) {
-
-        int[][] testyBoi = {
-                {1, 2, 3, 4},
-                {2, 3, 4, 1},
-                {3, 4, 1, 2}
-        };
-
-        LargestProduct (testyBoi);
-    }
-
     public static int LargestProduct (int[][] aa) {
         int result = 0;
 
@@ -27,9 +16,6 @@ public class AdjacentProduct {
                 }
             }
         }
-
-        System.out.println(Arrays.deepToString(aa));
-        System.out.println("Result: " + result);
         return result;
     }
 
