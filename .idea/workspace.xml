@@ -3,14 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2451a47b-02d9-4e24-b215-c3e84fd3b4a7" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/assets/whiteboard-08-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/assets/whiteboard-09.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/assets/whiteboard-10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day04/AdjacentProduct.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day04/AdjacentProduct.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day08/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day08/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day09/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day09/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day10/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day10/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day04/AdjacentProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day04/AdjacentProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day04/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/day04/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,51 +15,40 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LinkedList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day06/LinkedList.java">
+      <file leaf-file-name="QueueWithStacks.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day11/QueueWithStacks.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106">
-              <caret line="191" column="82" selection-start-line="191" selection-start-column="82" selection-end-line="191" selection-end-column="82" />
+            <state relative-caret-position="283">
+              <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
               <folding>
-                <element signature="e#87#88#0" expanded="true" />
-                <element signature="e#119#120#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#233#234#0" expanded="true" />
+                <element signature="e#264#265#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReverseListTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day06/ReverseListTest.java">
+      <file leaf-file-name="QueueWithStacksTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/day11/QueueWithStacksTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+            <state relative-caret-position="340">
+              <caret line="49" column="36" selection-start-line="49" selection-start-column="36" selection-end-line="49" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AdjacentProduct.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day04/AdjacentProduct.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AdjacentProductTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/day04/AdjacentProductTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="53" column="25" selection-start-line="53" selection-start-column="25" selection-end-line="53" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day06/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day11/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="195">
+                <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -95,7 +77,6 @@
         <option value="$PROJECT_DIR$/src/day03/README.md" />
         <option value="$PROJECT_DIR$/src/day03/ArrayBinarySearchTest.java" />
         <option value="$PROJECT_DIR$/src/day03/ArrayBinarySearch.java" />
-        <option value="$PROJECT_DIR$/src/day04/README.md" />
         <option value="$PROJECT_DIR$/src/day05/MatrixRotation.java" />
         <option value="$PROJECT_DIR$/src/day05/MatrixRotationTest.java" />
         <option value="$PROJECT_DIR$/src/day02/ArrayShiftTest.java" />
@@ -124,6 +105,10 @@
         <option value="$PROJECT_DIR$/src/day08/README.md" />
         <option value="$PROJECT_DIR$/src/day04/AdjacentProduct.java" />
         <option value="$PROJECT_DIR$/src/day04/AdjacentProductTest.java" />
+        <option value="$PROJECT_DIR$/src/day04/README.md" />
+        <option value="$PROJECT_DIR$/src/day11/README.md" />
+        <option value="$PROJECT_DIR$/src/day11/QueueWithStacks.java" />
+        <option value="$PROJECT_DIR$/src/day11/QueueWithStacksTest.java" />
       </list>
     </option>
   </component>
@@ -155,15 +140,15 @@
               <item name="data-structures-and-algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="data-structures-and-algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="day04" type="462c0819:PsiDirectoryNode" />
+              <item name="day11" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -178,26 +163,27 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="day11" />
       <recent name="day04" />
       <recent name="day06" />
       <recent name="day07" />
       <recent name="day05" />
-      <recent name="day02" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/day10/assets" />
-      <recent name="$PROJECT_DIR$/src/day08/assets" />
-      <recent name="$PROJECT_DIR$/src/day09/assets" />
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/day11/assets" />
       <recent name="$PROJECT_DIR$/src/assets" />
       <recent name="$PROJECT_DIR$/src/day07" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="day09" />
     </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/day10/assets" />
+      <recent name="$PROJECT_DIR$/src/day08/assets" />
+      <recent name="$PROJECT_DIR$/src/day09/assets" />
       <recent name="$PROJECT_DIR$/src/assets" />
       <recent name="$PROJECT_DIR$/src/day07" />
     </key>
@@ -214,43 +200,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.AdjacentProductTest.largestProduct3by3">
-    <configuration name="AdjacentProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day04.AdjacentProduct" />
-      <module name="data-structures-and-algorithms" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="JUnit.QueueWithStacksTest.checkWholeQueue">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="AdjacentProductTest.largestProduct" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="data-structures-and-algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="day04" />
-      <option name="MAIN_CLASS_NAME" value="day04.AdjacentProductTest" />
-      <option name="METHOD_NAME" value="largestProduct" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
     </configuration>
     <configuration name="AdjacentProductTest.largestProduct3by3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="data-structures-and-algorithms" />
@@ -275,19 +227,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="AdjacentProductTest.largestProductby4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="QueueWithStacksTest.checkWholeQueue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="data-structures-and-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day04.*" />
+          <option name="PATTERN" value="day11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="day04" />
-      <option name="MAIN_CLASS_NAME" value="day04.AdjacentProductTest" />
-      <option name="METHOD_NAME" value="largestProductby4" />
+      <option name="PACKAGE_NAME" value="day11" />
+      <option name="MAIN_CLASS_NAME" value="day11.QueueWithStacksTest" />
+      <option name="METHOD_NAME" value="checkWholeQueue" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -298,19 +250,65 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="AdjacentProductTest.largestProductby4By3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="QueueWithStacksTest.dequeueFirstVal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="data-structures-and-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day04.*" />
+          <option name="PATTERN" value="day11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="day04" />
-      <option name="MAIN_CLASS_NAME" value="day04.AdjacentProductTest" />
-      <option name="METHOD_NAME" value="largestProductby4By3" />
+      <option name="PACKAGE_NAME" value="day11" />
+      <option name="MAIN_CLASS_NAME" value="day11.QueueWithStacksTest" />
+      <option name="METHOD_NAME" value="dequeueFirstVal" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="QueueWithStacksTest.dequeueLastVal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data-structures-and-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="day11" />
+      <option name="MAIN_CLASS_NAME" value="day11.QueueWithStacksTest" />
+      <option name="METHOD_NAME" value="dequeueLastVal" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="QueueWithStacksTest.enqueue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data-structures-and-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="day11" />
+      <option name="MAIN_CLASS_NAME" value="day11.QueueWithStacksTest" />
+      <option name="METHOD_NAME" value="enqueue" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -360,19 +358,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.AdjacentProduct" />
-      <item itemvalue="JUnit.AdjacentProductTest.largestProduct" />
-      <item itemvalue="JUnit.AdjacentProductTest.largestProductby4" />
-      <item itemvalue="JUnit.AdjacentProductTest.largestProductby4By3" />
       <item itemvalue="JUnit.AdjacentProductTest.largestProduct3by3" />
+      <item itemvalue="JUnit.QueueWithStacksTest.enqueue" />
+      <item itemvalue="JUnit.QueueWithStacksTest.dequeueFirstVal" />
+      <item itemvalue="JUnit.QueueWithStacksTest.dequeueLastVal" />
+      <item itemvalue="JUnit.QueueWithStacksTest.checkWholeQueue" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.QueueWithStacksTest.checkWholeQueue" />
+        <item itemvalue="JUnit.QueueWithStacksTest.dequeueLastVal" />
+        <item itemvalue="JUnit.QueueWithStacksTest.dequeueFirstVal" />
+        <item itemvalue="JUnit.QueueWithStacksTest.enqueue" />
         <item itemvalue="JUnit.AdjacentProductTest.largestProduct3by3" />
-        <item itemvalue="JUnit.AdjacentProductTest.largestProductby4By3" />
-        <item itemvalue="JUnit.AdjacentProductTest.largestProductby4" />
-        <item itemvalue="JUnit.AdjacentProductTest.largestProduct" />
-        <item itemvalue="Application.AdjacentProduct" />
       </list>
     </recent_temporary>
   </component>
@@ -390,47 +388,47 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ReverseListTest_reverseLL1 - 2018.07.21 at 13h 15m 41s.xml">
-      <configuration name="ReverseListTest.reverseLL1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReverseListTest_emptyRvrsTest - 2018.07.21 at 13h 32m 31s.xml">
-      <configuration name="ReverseListTest.emptyRvrsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReverseListTest_reverseLL2 - 2018.07.21 at 13h 34m 51s.xml">
-      <configuration name="ReverseListTest.reverseLL2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReverseListTest_emptyTest - 2018.07.21 at 13h 37m 31s.xml">
-      <configuration name="ReverseListTest.emptyTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReverseListTest_emptyTest - 2018.07.21 at 13h 38m 34s.xml">
-      <configuration name="ReverseListTest.emptyTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReverseListTest_emptyTest - 2018.07.21 at 13h 39m 02s.xml">
-      <configuration name="ReverseListTest.emptyTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AdjacentProductTest_largestProduct - 2018.07.21 at 20h 34m 45s.xml">
-      <configuration name="AdjacentProductTest.largestProduct" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AdjacentProductTest_largestProduct - 2018.07.21 at 20h 35m 40s.xml">
-      <configuration name="AdjacentProductTest.largestProduct" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AdjacentProductTest_largestProduct - 2018.07.21 at 20h 35m 57s.xml">
-      <configuration name="AdjacentProductTest.largestProduct" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AdjacentProductTest_largestProduct - 2018.07.21 at 20h 36m 27s.xml">
-      <configuration name="AdjacentProductTest.largestProduct" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AdjacentProductTest_largestProductby4 - 2018.07.21 at 20h 37m 59s.xml">
-      <configuration name="AdjacentProductTest.largestProductby4" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AdjacentProductTest_largestProductby4By3 - 2018.07.21 at 20h 38m 13s.xml">
-      <configuration name="AdjacentProductTest.largestProductby4By3" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="AdjacentProductTest_largestProduct3by3 - 2018.07.21 at 20h 40m 47s.xml">
       <configuration name="AdjacentProductTest.largestProduct3by3" configurationId="JUnit" />
     </history-entry>
     <history-entry file="AdjacentProductTest_largestProduct3by3 - 2018.07.21 at 20h 45m 22s.xml">
       <configuration name="AdjacentProductTest.largestProduct3by3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QueueWithStacksTest_enqueue - 2018.07.24 at 09h 08m 02s.xml">
+      <configuration name="QueueWithStacksTest.enqueue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QueueWithStacksTest_enqueue - 2018.07.24 at 09h 10m 36s.xml">
+      <configuration name="QueueWithStacksTest.enqueue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QueueWithStacksTest_dequeueFirstVal - 2018.07.24 at 09h 27m 04s.xml">
+      <configuration name="QueueWithStacksTest.dequeueFirstVal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QueueWithStacksTest_dequeueLastVal - 2018.07.24 at 09h 29m 37s.xml">
+      <configuration name="QueueWithStacksTest.dequeueLastVal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QueueWithStacksTest_checkWholeQueue - 2018.07.24 at 09h 43m 18s.xml">
+      <configuration name="QueueWithStacksTest.checkWholeQueue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QueueWithStacksTest_checkWholeQueue - 2018.07.24 at 09h 44m 59s.xml">
+      <configuration name="QueueWithStacksTest.checkWholeQueue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QueueWithStacksTest_checkWholeQueue - 2018.07.24 at 10h 07m 40s.xml">
+      <configuration name="QueueWithStacksTest.checkWholeQueue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QueueWithStacksTest_checkWholeQueue - 2018.07.24 at 10h 09m 37s.xml">
+      <configuration name="QueueWithStacksTest.checkWholeQueue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QueueWithStacksTest_checkWholeQueue - 2018.07.24 at 10h 10m 40s.xml">
+      <configuration name="QueueWithStacksTest.checkWholeQueue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QueueWithStacksTest_checkWholeQueue - 2018.07.24 at 10h 11m 54s.xml">
+      <configuration name="QueueWithStacksTest.checkWholeQueue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QueueWithStacksTest_checkWholeQueue - 2018.07.24 at 10h 14m 13s.xml">
+      <configuration name="QueueWithStacksTest.checkWholeQueue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QueueWithStacksTest_checkWholeQueue - 2018.07.24 at 10h 15m 17s.xml">
+      <configuration name="QueueWithStacksTest.checkWholeQueue" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -447,10 +445,10 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29655173" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.28551725" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.20137931" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.0" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2641357" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23182553" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -474,27 +472,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="7" column="154" selection-start-line="7" selection-start-column="154" selection-end-line="7" selection-end-column="154" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day02/ArrayShift.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="24" column="81" selection-start-line="24" selection-start-column="81" selection-end-line="24" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day02/ArrayShiftTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" selection-end-line="38" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/day02/ArrayShift.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -659,16 +636,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day04/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="180">
-            <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/day03/ArrayBinarySearch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -737,9 +704,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
           <caret line="42" column="3" lean-forward="true" selection-start-line="42" selection-start-column="3" selection-end-line="42" selection-end-column="3" />
-          <folding>
-            <element signature="e#0#1419#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -767,13 +731,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day06/ReverseListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/day09/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -794,16 +751,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/day04/AdjacentProductTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="53" column="25" selection-start-line="53" selection-start-column="25" selection-end-line="53" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/day04/AdjacentProduct.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
+        <state relative-caret-position="255">
           <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day04/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day06/ReverseListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/day06/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
+        <state relative-caret-position="502">
           <caret line="191" column="82" selection-start-line="191" selection-start-column="82" selection-end-line="191" selection-end-column="82" />
           <folding>
             <element signature="e#87#88#0" expanded="true" />
@@ -812,10 +793,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day04/AdjacentProductTest.java">
+    <entry file="file://$PROJECT_DIR$/src/day11/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="195">
+            <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day11/QueueWithStacks.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="283">
-          <caret line="53" column="25" selection-start-line="53" selection-start-column="25" selection-end-line="53" selection-end-column="25" />
+          <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day11/QueueWithStacksTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="49" column="36" selection-start-line="49" selection-start-column="36" selection-end-line="49" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

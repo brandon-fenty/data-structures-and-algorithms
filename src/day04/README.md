@@ -1,6 +1,6 @@
 # Array Adjacent Product
 
-Find the highest value of adjacent integers within a 2D array. These values can be left, right, above, below, and diagonal to each other.
+Find the highest product of adjacent integers within a 2D array. These values can be left, right, above, below, and diagonal to each other.
 
 ## Challenge
 
