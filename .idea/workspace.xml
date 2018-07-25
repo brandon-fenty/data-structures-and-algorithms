@@ -2,8 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2451a47b-02d9-4e24-b215-c3e84fd3b4a7" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day04/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/day04/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day01/ArrayReverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day01/ArrayReverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day01/ArrayReverseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day01/ArrayReverseTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day02/ArrayShift.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day02/ArrayShift.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day02/ArrayShiftTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day02/ArrayShiftTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day03/ArrayBinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day03/ArrayBinarySearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day03/ArrayBinarySearchTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day03/ArrayBinarySearchTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day04/AdjacentProduct.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day04/AdjacentProduct.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day04/AdjacentProductTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day04/AdjacentProductTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day05/MatrixRotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day05/MatrixRotation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day05/MatrixRotationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day05/MatrixRotationTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day06/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day06/LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day06/LinkedListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day06/LinkedListTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day06/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day06/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day06/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day06/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day06/MergeListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day06/MergeListTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day06/ReverseListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day06/ReverseListTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day06/hasLoopTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day06/hasLoopTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day07/KthElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day07/KthElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day07/KthElementTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day07/KthElementTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,28 +34,56 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="QueueWithStacks.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day11/QueueWithStacks.java">
+      <file leaf-file-name="QueueWithStacksTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day11/QueueWithStacksTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
+            <state relative-caret-position="-7">
+              <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#233#234#0" expanded="true" />
-                <element signature="e#264#265#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="QueueWithStacksTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/day11/QueueWithStacksTest.java">
+      <file leaf-file-name="AnimalShelter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day12/AnimalShelter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="49" column="36" selection-start-line="49" selection-start-column="36" selection-end-line="49" selection-end-column="36" />
+            <state relative-caret-position="-7">
+              <caret line="44" column="23" selection-start-line="44" selection-start-column="23" selection-end-line="44" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AnimalShelterTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day12/AnimalShelterTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-7">
+              <caret line="75" column="29" selection-start-line="75" selection-start-column="29" selection-end-line="75" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/day12/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="165">
+                <caret line="8" column="149" selection-start-line="8" selection-start-column="149" selection-end-line="8" selection-end-column="149" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KthElement.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day07/KthElement.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-7">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -45,7 +92,7 @@
         <entry file="file://$PROJECT_DIR$/src/day11/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="195">
+              <first_editor>
                 <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
               </first_editor>
               <second_editor />
@@ -109,8 +156,21 @@
         <option value="$PROJECT_DIR$/src/day11/README.md" />
         <option value="$PROJECT_DIR$/src/day11/QueueWithStacks.java" />
         <option value="$PROJECT_DIR$/src/day11/QueueWithStacksTest.java" />
+        <option value="$PROJECT_DIR$/src/day12/FIFOAnimalShelter.java" />
+        <option value="$PROJECT_DIR$/src/day12/AnimalShelter.java" />
+        <option value="$PROJECT_DIR$/src/day12/AnimalShelterTest.java" />
+        <option value="$PROJECT_DIR$/src/day12/README.md" />
       </list>
     </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1280" />
@@ -124,6 +184,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -140,14 +202,12 @@
               <item name="data-structures-and-algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="data-structures-and-algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="day11" type="462c0819:PsiDirectoryNode" />
+              <item name="day12" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -156,34 +216,41 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="SearchEverywhereHistoryKey" value="settings&#9;PSI&#9;JAVA://com.sun.scenario.Settings" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="day12" />
       <recent name="day11" />
       <recent name="day04" />
       <recent name="day06" />
       <recent name="day07" />
-      <recent name="day05" />
     </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/day11/assets" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/day10/assets" />
+      <recent name="$PROJECT_DIR$/src/day08/assets" />
+      <recent name="$PROJECT_DIR$/src/day09/assets" />
       <recent name="$PROJECT_DIR$/src/assets" />
       <recent name="$PROJECT_DIR$/src/day07" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="day09" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/day10/assets" />
-      <recent name="$PROJECT_DIR$/src/day08/assets" />
-      <recent name="$PROJECT_DIR$/src/day09/assets" />
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/day12/assets" />
+      <recent name="$PROJECT_DIR$/src/day11/assets" />
       <recent name="$PROJECT_DIR$/src/assets" />
       <recent name="$PROJECT_DIR$/src/day07" />
     </key>
@@ -200,23 +267,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.QueueWithStacksTest.checkWholeQueue">
+  <component name="RunManager" selected="JUnit.AnimalShelterTest.dequeueCat">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="AdjacentProductTest.largestProduct3by3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AnimalShelterTest.checkBothQueues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="data-structures-and-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day04.*" />
+          <option name="PATTERN" value="day12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="day04" />
-      <option name="MAIN_CLASS_NAME" value="day04.AdjacentProductTest" />
-      <option name="METHOD_NAME" value="largestProduct3by3" />
+      <option name="PACKAGE_NAME" value="day12" />
+      <option name="MAIN_CLASS_NAME" value="day12.AnimalShelterTest" />
+      <option name="METHOD_NAME" value="checkBothQueues" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -227,19 +294,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="QueueWithStacksTest.checkWholeQueue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AnimalShelterTest.checkCatEnqueue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="data-structures-and-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day11.*" />
+          <option name="PATTERN" value="day12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="day11" />
-      <option name="MAIN_CLASS_NAME" value="day11.QueueWithStacksTest" />
-      <option name="METHOD_NAME" value="checkWholeQueue" />
+      <option name="PACKAGE_NAME" value="day12" />
+      <option name="MAIN_CLASS_NAME" value="day12.AnimalShelterTest" />
+      <option name="METHOD_NAME" value="checkCatEnqueue" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -250,19 +317,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="QueueWithStacksTest.dequeueFirstVal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AnimalShelterTest.checkDogEnqueue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="data-structures-and-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day11.*" />
+          <option name="PATTERN" value="day12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="day11" />
-      <option name="MAIN_CLASS_NAME" value="day11.QueueWithStacksTest" />
-      <option name="METHOD_NAME" value="dequeueFirstVal" />
+      <option name="PACKAGE_NAME" value="day12" />
+      <option name="MAIN_CLASS_NAME" value="day12.AnimalShelterTest" />
+      <option name="METHOD_NAME" value="checkDogEnqueue" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -273,19 +340,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="QueueWithStacksTest.dequeueLastVal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AnimalShelterTest.dequeueCat" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="data-structures-and-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day11.*" />
+          <option name="PATTERN" value="day12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="day11" />
-      <option name="MAIN_CLASS_NAME" value="day11.QueueWithStacksTest" />
-      <option name="METHOD_NAME" value="dequeueLastVal" />
+      <option name="PACKAGE_NAME" value="day12" />
+      <option name="MAIN_CLASS_NAME" value="day12.AnimalShelterTest" />
+      <option name="METHOD_NAME" value="dequeueCat" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -296,19 +363,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="QueueWithStacksTest.enqueue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AnimalShelterTest.dequeueDog" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="data-structures-and-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day11.*" />
+          <option name="PATTERN" value="day12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="day11" />
-      <option name="MAIN_CLASS_NAME" value="day11.QueueWithStacksTest" />
-      <option name="METHOD_NAME" value="enqueue" />
+      <option name="PACKAGE_NAME" value="day12" />
+      <option name="MAIN_CLASS_NAME" value="day12.AnimalShelterTest" />
+      <option name="METHOD_NAME" value="dequeueDog" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -358,19 +425,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.AdjacentProductTest.largestProduct3by3" />
-      <item itemvalue="JUnit.QueueWithStacksTest.enqueue" />
-      <item itemvalue="JUnit.QueueWithStacksTest.dequeueFirstVal" />
-      <item itemvalue="JUnit.QueueWithStacksTest.dequeueLastVal" />
-      <item itemvalue="JUnit.QueueWithStacksTest.checkWholeQueue" />
+      <item itemvalue="JUnit.AnimalShelterTest.checkDogEnqueue" />
+      <item itemvalue="JUnit.AnimalShelterTest.checkCatEnqueue" />
+      <item itemvalue="JUnit.AnimalShelterTest.checkBothQueues" />
+      <item itemvalue="JUnit.AnimalShelterTest.dequeueDog" />
+      <item itemvalue="JUnit.AnimalShelterTest.dequeueCat" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.QueueWithStacksTest.checkWholeQueue" />
-        <item itemvalue="JUnit.QueueWithStacksTest.dequeueLastVal" />
-        <item itemvalue="JUnit.QueueWithStacksTest.dequeueFirstVal" />
-        <item itemvalue="JUnit.QueueWithStacksTest.enqueue" />
-        <item itemvalue="JUnit.AdjacentProductTest.largestProduct3by3" />
+        <item itemvalue="JUnit.AnimalShelterTest.dequeueCat" />
+        <item itemvalue="JUnit.AnimalShelterTest.dequeueDog" />
+        <item itemvalue="JUnit.AnimalShelterTest.checkBothQueues" />
+        <item itemvalue="JUnit.AnimalShelterTest.checkCatEnqueue" />
+        <item itemvalue="JUnit.AnimalShelterTest.checkDogEnqueue" />
       </list>
     </recent_temporary>
   </component>
@@ -384,52 +451,57 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531181092780</updated>
+      <workItem from="1532481694656" duration="1253000" />
+      <workItem from="1532496658049" duration="5348000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AdjacentProductTest_largestProduct3by3 - 2018.07.21 at 20h 40m 47s.xml">
-      <configuration name="AdjacentProductTest.largestProduct3by3" configurationId="JUnit" />
+    <history-entry file="AnimalShelterTest_enqueue - 2018.07.25 at 11h 01m 54s.xml">
+      <configuration name="AnimalShelterTest.enqueue" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AdjacentProductTest_largestProduct3by3 - 2018.07.21 at 20h 45m 22s.xml">
-      <configuration name="AdjacentProductTest.largestProduct3by3" configurationId="JUnit" />
+    <history-entry file="AnimalShelterTest_enqueue - 2018.07.25 at 11h 02m 34s.xml">
+      <configuration name="AnimalShelterTest.enqueue" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="QueueWithStacksTest_enqueue - 2018.07.24 at 09h 08m 02s.xml">
-      <configuration name="QueueWithStacksTest.enqueue" configurationId="JUnit" />
+    <history-entry file="AnimalShelterTest_enqueue - 2018.07.25 at 11h 02m 47s.xml">
+      <configuration name="AnimalShelterTest.enqueue" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="QueueWithStacksTest_enqueue - 2018.07.24 at 09h 10m 36s.xml">
-      <configuration name="QueueWithStacksTest.enqueue" configurationId="JUnit" />
+    <history-entry file="AnimalShelterTest_enqueue - 2018.07.25 at 11h 03m 01s.xml">
+      <configuration name="AnimalShelterTest.enqueue" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="QueueWithStacksTest_dequeueFirstVal - 2018.07.24 at 09h 27m 04s.xml">
-      <configuration name="QueueWithStacksTest.dequeueFirstVal" configurationId="JUnit" />
+    <history-entry file="AnimalShelterTest_checkDogEnqueue - 2018.07.25 at 11h 14m 54s.xml">
+      <configuration name="AnimalShelterTest.checkDogEnqueue" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="QueueWithStacksTest_dequeueLastVal - 2018.07.24 at 09h 29m 37s.xml">
-      <configuration name="QueueWithStacksTest.dequeueLastVal" configurationId="JUnit" />
+    <history-entry file="AnimalShelterTest_checkDogEnqueue - 2018.07.25 at 11h 15m 19s.xml">
+      <configuration name="AnimalShelterTest.checkDogEnqueue" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="QueueWithStacksTest_checkWholeQueue - 2018.07.24 at 09h 43m 18s.xml">
-      <configuration name="QueueWithStacksTest.checkWholeQueue" configurationId="JUnit" />
+    <history-entry file="AnimalShelterTest_checkDogEnqueue - 2018.07.25 at 11h 16m 06s.xml">
+      <configuration name="AnimalShelterTest.checkDogEnqueue" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="QueueWithStacksTest_checkWholeQueue - 2018.07.24 at 09h 44m 59s.xml">
-      <configuration name="QueueWithStacksTest.checkWholeQueue" configurationId="JUnit" />
+    <history-entry file="AnimalShelterTest_checkDogEnqueue - 2018.07.25 at 11h 16m 25s.xml">
+      <configuration name="AnimalShelterTest.checkDogEnqueue" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="QueueWithStacksTest_checkWholeQueue - 2018.07.24 at 10h 07m 40s.xml">
-      <configuration name="QueueWithStacksTest.checkWholeQueue" configurationId="JUnit" />
+    <history-entry file="AnimalShelterTest_checkDogEnqueue - 2018.07.25 at 11h 17m 24s.xml">
+      <configuration name="AnimalShelterTest.checkDogEnqueue" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="QueueWithStacksTest_checkWholeQueue - 2018.07.24 at 10h 09m 37s.xml">
-      <configuration name="QueueWithStacksTest.checkWholeQueue" configurationId="JUnit" />
+    <history-entry file="AnimalShelterTest_checkCatEnqueue - 2018.07.25 at 11h 17m 28s.xml">
+      <configuration name="AnimalShelterTest.checkCatEnqueue" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="QueueWithStacksTest_checkWholeQueue - 2018.07.24 at 10h 10m 40s.xml">
-      <configuration name="QueueWithStacksTest.checkWholeQueue" configurationId="JUnit" />
+    <history-entry file="AnimalShelterTest_checkBothQueues - 2018.07.25 at 11h 23m 11s.xml">
+      <configuration name="AnimalShelterTest.checkBothQueues" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="QueueWithStacksTest_checkWholeQueue - 2018.07.24 at 10h 11m 54s.xml">
-      <configuration name="QueueWithStacksTest.checkWholeQueue" configurationId="JUnit" />
+    <history-entry file="AnimalShelterTest_dequeueDog - 2018.07.25 at 11h 26m 47s.xml">
+      <configuration name="AnimalShelterTest.dequeueDog" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="QueueWithStacksTest_checkWholeQueue - 2018.07.24 at 10h 14m 13s.xml">
-      <configuration name="QueueWithStacksTest.checkWholeQueue" configurationId="JUnit" />
+    <history-entry file="AnimalShelterTest_dequeueDog - 2018.07.25 at 11h 27m 54s.xml">
+      <configuration name="AnimalShelterTest.dequeueDog" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="QueueWithStacksTest_checkWholeQueue - 2018.07.24 at 10h 15m 17s.xml">
-      <configuration name="QueueWithStacksTest.checkWholeQueue" configurationId="JUnit" />
+    <history-entry file="AnimalShelterTest_dequeueCat - 2018.07.25 at 11h 28m 39s.xml">
+      <configuration name="AnimalShelterTest.dequeueCat" configurationId="JUnit" />
     </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6601000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -443,12 +515,14 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29655173" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.0" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.28551725" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.0" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23182553" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24313408" />
+      <window_info anchor="right" id="Database" order="4" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -458,10 +532,13 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -472,27 +549,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/day02/ArrayShift.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="20" column="85" selection-start-line="20" selection-start-column="85" selection-end-line="20" selection-end-column="85" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day02/ArrayShiftTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="38" selection-start-line="38" selection-start-column="2" selection-end-line="46" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -562,7 +618,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/day02/README.md">
-      <provider editor-type-id="text-editor" />
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="165">
@@ -571,6 +626,7 @@
           <second_editor />
         </state>
       </provider>
+      <provider editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/day06/LinkedNode.java" />
     <entry file="file://$PROJECT_DIR$/src/day02/ArrayShiftTest.java">
@@ -598,13 +654,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day07/KthElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
@@ -690,13 +739,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
           <caret line="42" column="27" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day09/hasLoopTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1185">
-          <caret line="79" column="2" selection-start-line="79" selection-start-column="2" selection-end-line="79" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -786,44 +828,163 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="502">
           <caret line="191" column="82" selection-start-line="191" selection-start-column="82" selection-end-line="191" selection-end-column="82" />
-          <folding>
-            <element signature="e#87#88#0" expanded="true" />
-            <element signature="e#119#120#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/day11/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="195">
+          <first_editor>
             <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/day07/KthElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/day11/QueueWithStacks.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
+        <state relative-caret-position="195">
+          <caret line="16" column="41" lean-forward="true" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day12/AnimalShelter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="44" column="23" selection-start-line="44" selection-start-column="23" selection-end-line="44" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
-            <element signature="e#264#265#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/day11/QueueWithStacksTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="49" column="36" selection-start-line="49" selection-start-column="36" selection-end-line="49" selection-end-column="36" />
+        <state relative-caret-position="-7">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/day09/hasLoopTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1119">
+          <caret line="79" column="2" selection-start-line="79" selection-start-column="2" selection-end-line="79" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day12/AnimalShelterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="75" column="29" selection-start-line="75" selection-start-column="29" selection-end-line="75" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day12/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="165">
+            <caret line="8" column="149" selection-start-line="8" selection-start-column="149" selection-end-line="8" selection-end-column="149" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>data-structures-and-algorithms</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
