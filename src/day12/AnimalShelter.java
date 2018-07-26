@@ -4,8 +4,7 @@ package day12;
 // Create a class called AnimalShelter that holds cats and dogs
 // Create two methods; enqueue which will add animals to a queue
 // and dequeue which takes an argument of animal type and returns the first
-// of it's kind then adds the remaining animals back to the queue in the order
-// they originally went in.
+// of it's kind.
 
 import java.util.LinkedList;
 import java.util.Queue;
@@ -18,9 +17,9 @@ public class AnimalShelter {
     public void enqueue (String animal) {
         // Check to see what type of animal was passed into the method
         // and add it to it's corresponding queue
-        if (animal == "dog" || animal == "Dog") {
+        if (animal.equalsIgnoreCase("dog")) {
             dogQ.add(animal);
-        } else if (animal == "cat" || animal == "Cat") {
+        } else if (animal.equalsIgnoreCase("cat")) {
             catQ.add(animal);
         } else {
             System.out.println("Incorrect animal type");
@@ -30,9 +29,9 @@ public class AnimalShelter {
     public String dequeue (String pref) {
         // Based on what the preference is, return the first in line
         // for the type
-        if (pref == "dog" || pref == "Dog") {
+        if (pref.equalsIgnoreCase("dog")) {
             return dogQ.poll();
-        } else if (pref == "cat" || pref == "Cat") {
+        } else if (pref.equalsIgnoreCase("cat")) {
             return  catQ.poll();
         }
         return "Incorrect animal type";
@@ -46,7 +45,7 @@ public class AnimalShelter {
         }
         return str;
     }
-
+    // Print out the cat queue
     public String catQueueToString () {
         String str = "";
         for (String cats : catQ) {
