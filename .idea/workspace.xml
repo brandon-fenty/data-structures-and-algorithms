@@ -2,27 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2451a47b-02d9-4e24-b215-c3e84fd3b4a7" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day01/ArrayReverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day01/ArrayReverse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day01/ArrayReverseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day01/ArrayReverseTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day02/ArrayShift.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day02/ArrayShift.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day02/ArrayShiftTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day02/ArrayShiftTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day03/ArrayBinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day03/ArrayBinarySearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day03/ArrayBinarySearchTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day03/ArrayBinarySearchTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day04/AdjacentProduct.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day04/AdjacentProduct.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day04/AdjacentProductTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day04/AdjacentProductTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day05/MatrixRotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day05/MatrixRotation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day05/MatrixRotationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day05/MatrixRotationTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day06/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day06/LinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day06/LinkedListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day06/LinkedListTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day06/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day06/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day06/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day06/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day06/MergeListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day06/MergeListTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day06/ReverseListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day06/ReverseListTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day06/hasLoopTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day06/hasLoopTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day07/KthElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day07/KthElement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day07/KthElementTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day07/KthElementTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day13/MultiBracketValidation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day13/MultiBracketValidation.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,26 +14,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="QueueWithStacksTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day11/QueueWithStacksTest.java">
+      <file leaf-file-name="MultiBracketValidation.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day13/MultiBracketValidation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="-254">
+              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AnimalShelter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day12/AnimalShelter.java">
+      <file leaf-file-name="MultiBracketValidationTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/day13/MultiBracketValidationTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="44" column="23" selection-start-line="44" selection-start-column="23" selection-end-line="44" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="229">
+              <caret line="54" column="43" selection-start-line="54" selection-start-column="43" selection-end-line="54" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -61,41 +35,17 @@
       <file leaf-file-name="AnimalShelterTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/day12/AnimalShelterTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
+            <state relative-caret-position="277">
               <caret line="75" column="29" selection-start-line="75" selection-start-column="29" selection-end-line="75" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/day12/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="165">
-                <caret line="8" column="149" selection-start-line="8" selection-start-column="149" selection-end-line="8" selection-end-column="149" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="KthElement.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day07/KthElement.java">
+      <file leaf-file-name="ArrayShift.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day02/ArrayShift.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day11/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-              </first_editor>
-              <second_editor />
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -157,9 +107,11 @@
         <option value="$PROJECT_DIR$/src/day11/QueueWithStacks.java" />
         <option value="$PROJECT_DIR$/src/day11/QueueWithStacksTest.java" />
         <option value="$PROJECT_DIR$/src/day12/FIFOAnimalShelter.java" />
-        <option value="$PROJECT_DIR$/src/day12/AnimalShelter.java" />
         <option value="$PROJECT_DIR$/src/day12/AnimalShelterTest.java" />
         <option value="$PROJECT_DIR$/src/day12/README.md" />
+        <option value="$PROJECT_DIR$/src/day12/AnimalShelter.java" />
+        <option value="$PROJECT_DIR$/src/day13/MultiBracketValidation.java" />
+        <option value="$PROJECT_DIR$/src/day13/MultiBracketValidationTest.java" />
       </list>
     </option>
   </component>
@@ -184,8 +136,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -202,12 +152,20 @@
               <item name="data-structures-and-algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="data-structures-and-algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="day12" type="462c0819:PsiDirectoryNode" />
+              <item name="day02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="data-structures-and-algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data-structures-and-algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="day13" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -229,21 +187,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="day13" />
       <recent name="day12" />
       <recent name="day11" />
       <recent name="day04" />
       <recent name="day06" />
-      <recent name="day07" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/day10/assets" />
-      <recent name="$PROJECT_DIR$/src/day08/assets" />
-      <recent name="$PROJECT_DIR$/src/day09/assets" />
-      <recent name="$PROJECT_DIR$/src/assets" />
-      <recent name="$PROJECT_DIR$/src/day07" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="day09" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -251,6 +199,16 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/day12/assets" />
       <recent name="$PROJECT_DIR$/src/day11/assets" />
+      <recent name="$PROJECT_DIR$/src/assets" />
+      <recent name="$PROJECT_DIR$/src/day07" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="day09" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/day10/assets" />
+      <recent name="$PROJECT_DIR$/src/day08/assets" />
+      <recent name="$PROJECT_DIR$/src/day09/assets" />
       <recent name="$PROJECT_DIR$/src/assets" />
       <recent name="$PROJECT_DIR$/src/day07" />
     </key>
@@ -267,23 +225,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.AnimalShelterTest.dequeueCat">
+  <component name="RunManager" selected="JUnit.MultiBracketValidationTest.unbalancedComplex">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="AnimalShelterTest.checkBothQueues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MultiBracketValidationTest.balancedComplex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="data-structures-and-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day12.*" />
+          <option name="PATTERN" value="day13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="day12" />
-      <option name="MAIN_CLASS_NAME" value="day12.AnimalShelterTest" />
-      <option name="METHOD_NAME" value="checkBothQueues" />
+      <option name="PACKAGE_NAME" value="day13" />
+      <option name="MAIN_CLASS_NAME" value="day13.MultiBracketValidationTest" />
+      <option name="METHOD_NAME" value="balancedComplex" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -294,19 +252,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="AnimalShelterTest.checkCatEnqueue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MultiBracketValidationTest.balancedSimple" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="data-structures-and-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day12.*" />
+          <option name="PATTERN" value="day13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="day12" />
-      <option name="MAIN_CLASS_NAME" value="day12.AnimalShelterTest" />
-      <option name="METHOD_NAME" value="checkCatEnqueue" />
+      <option name="PACKAGE_NAME" value="day13" />
+      <option name="MAIN_CLASS_NAME" value="day13.MultiBracketValidationTest" />
+      <option name="METHOD_NAME" value="balancedSimple" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -317,19 +275,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="AnimalShelterTest.checkDogEnqueue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MultiBracketValidationTest.empty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="data-structures-and-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day12.*" />
+          <option name="PATTERN" value="day13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="day12" />
-      <option name="MAIN_CLASS_NAME" value="day12.AnimalShelterTest" />
-      <option name="METHOD_NAME" value="checkDogEnqueue" />
+      <option name="PACKAGE_NAME" value="day13" />
+      <option name="MAIN_CLASS_NAME" value="day13.MultiBracketValidationTest" />
+      <option name="METHOD_NAME" value="empty" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -340,19 +298,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="AnimalShelterTest.dequeueCat" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MultiBracketValidationTest.unBalancedSimple" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="data-structures-and-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day12.*" />
+          <option name="PATTERN" value="day13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="day12" />
-      <option name="MAIN_CLASS_NAME" value="day12.AnimalShelterTest" />
-      <option name="METHOD_NAME" value="dequeueCat" />
+      <option name="PACKAGE_NAME" value="day13" />
+      <option name="MAIN_CLASS_NAME" value="day13.MultiBracketValidationTest" />
+      <option name="METHOD_NAME" value="unBalancedSimple" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -363,19 +321,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="AnimalShelterTest.dequeueDog" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MultiBracketValidationTest.unbalancedComplex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="data-structures-and-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day12.*" />
+          <option name="PATTERN" value="day13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="day12" />
-      <option name="MAIN_CLASS_NAME" value="day12.AnimalShelterTest" />
-      <option name="METHOD_NAME" value="dequeueDog" />
+      <option name="PACKAGE_NAME" value="day13" />
+      <option name="MAIN_CLASS_NAME" value="day13.MultiBracketValidationTest" />
+      <option name="METHOD_NAME" value="unbalancedComplex" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -425,19 +383,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.AnimalShelterTest.checkDogEnqueue" />
-      <item itemvalue="JUnit.AnimalShelterTest.checkCatEnqueue" />
-      <item itemvalue="JUnit.AnimalShelterTest.checkBothQueues" />
-      <item itemvalue="JUnit.AnimalShelterTest.dequeueDog" />
-      <item itemvalue="JUnit.AnimalShelterTest.dequeueCat" />
+      <item itemvalue="JUnit.MultiBracketValidationTest.balancedSimple" />
+      <item itemvalue="JUnit.MultiBracketValidationTest.unBalancedSimple" />
+      <item itemvalue="JUnit.MultiBracketValidationTest.empty" />
+      <item itemvalue="JUnit.MultiBracketValidationTest.balancedComplex" />
+      <item itemvalue="JUnit.MultiBracketValidationTest.unbalancedComplex" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AnimalShelterTest.dequeueCat" />
-        <item itemvalue="JUnit.AnimalShelterTest.dequeueDog" />
-        <item itemvalue="JUnit.AnimalShelterTest.checkBothQueues" />
-        <item itemvalue="JUnit.AnimalShelterTest.checkCatEnqueue" />
-        <item itemvalue="JUnit.AnimalShelterTest.checkDogEnqueue" />
+        <item itemvalue="JUnit.MultiBracketValidationTest.unbalancedComplex" />
+        <item itemvalue="JUnit.MultiBracketValidationTest.unBalancedSimple" />
+        <item itemvalue="JUnit.MultiBracketValidationTest.balancedComplex" />
+        <item itemvalue="JUnit.MultiBracketValidationTest.empty" />
+        <item itemvalue="JUnit.MultiBracketValidationTest.balancedSimple" />
       </list>
     </recent_temporary>
   </component>
@@ -452,60 +410,60 @@
       <option name="presentableId" value="Default" />
       <updated>1531181092780</updated>
       <workItem from="1532481694656" duration="1253000" />
-      <workItem from="1532496658049" duration="5348000" />
+      <workItem from="1532496658049" duration="5787000" />
+      <workItem from="1532564628802" duration="6054000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AnimalShelterTest_enqueue - 2018.07.25 at 11h 01m 54s.xml">
-      <configuration name="AnimalShelterTest.enqueue" configurationId="JUnit" />
+    <history-entry file="QueueWithStacksTest - 2018.07.25 at 11h 45m 38s.xml">
+      <configuration name="QueueWithStacksTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AnimalShelterTest_enqueue - 2018.07.25 at 11h 02m 34s.xml">
-      <configuration name="AnimalShelterTest.enqueue" configurationId="JUnit" />
+    <history-entry file="AnimalShelterTest - 2018.07.25 at 11h 45m 51s.xml">
+      <configuration name="AnimalShelterTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AnimalShelterTest_enqueue - 2018.07.25 at 11h 02m 47s.xml">
-      <configuration name="AnimalShelterTest.enqueue" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AnimalShelterTest_enqueue - 2018.07.25 at 11h 03m 01s.xml">
-      <configuration name="AnimalShelterTest.enqueue" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AnimalShelterTest_checkDogEnqueue - 2018.07.25 at 11h 14m 54s.xml">
-      <configuration name="AnimalShelterTest.checkDogEnqueue" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AnimalShelterTest_checkDogEnqueue - 2018.07.25 at 11h 15m 19s.xml">
-      <configuration name="AnimalShelterTest.checkDogEnqueue" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AnimalShelterTest_checkDogEnqueue - 2018.07.25 at 11h 16m 06s.xml">
-      <configuration name="AnimalShelterTest.checkDogEnqueue" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AnimalShelterTest_checkDogEnqueue - 2018.07.25 at 11h 16m 25s.xml">
-      <configuration name="AnimalShelterTest.checkDogEnqueue" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AnimalShelterTest_checkDogEnqueue - 2018.07.25 at 11h 17m 24s.xml">
-      <configuration name="AnimalShelterTest.checkDogEnqueue" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AnimalShelterTest_checkCatEnqueue - 2018.07.25 at 11h 17m 28s.xml">
-      <configuration name="AnimalShelterTest.checkCatEnqueue" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AnimalShelterTest_checkBothQueues - 2018.07.25 at 11h 23m 11s.xml">
+    <history-entry file="AnimalShelterTest_checkBothQueues - 2018.07.25 at 11h 46m 04s.xml">
       <configuration name="AnimalShelterTest.checkBothQueues" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AnimalShelterTest_dequeueDog - 2018.07.25 at 11h 26m 47s.xml">
+    <history-entry file="AnimalShelterTest_dequeueDog - 2018.07.25 at 11h 46m 14s.xml">
       <configuration name="AnimalShelterTest.dequeueDog" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AnimalShelterTest_dequeueDog - 2018.07.25 at 11h 27m 54s.xml">
-      <configuration name="AnimalShelterTest.dequeueDog" configurationId="JUnit" />
+    <history-entry file="AnimalShelterTest - 2018.07.25 at 21h 51m 30s.xml">
+      <configuration name="AnimalShelterTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AnimalShelterTest_dequeueCat - 2018.07.25 at 11h 28m 39s.xml">
-      <configuration name="AnimalShelterTest.dequeueCat" configurationId="JUnit" />
+    <history-entry file="MultiBracketValidationTest_balancedSimple - 2018.07.26 at 10h 45m 58s.xml">
+      <configuration name="MultiBracketValidationTest.balancedSimple" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MultiBracketValidationTest_unBalancedSimple - 2018.07.26 at 10h 46m 23s.xml">
+      <configuration name="MultiBracketValidationTest.unBalancedSimple" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MultiBracketValidationTest_empty - 2018.07.26 at 10h 46m 42s.xml">
+      <configuration name="MultiBracketValidationTest.empty" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MultiBracketValidationTest_balancedComplex - 2018.07.26 at 10h 47m 26s.xml">
+      <configuration name="MultiBracketValidationTest.balancedComplex" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MultiBracketValidationTest_unbalancedComplex - 2018.07.26 at 10h 48m 19s.xml">
+      <configuration name="MultiBracketValidationTest.unbalancedComplex" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MultiBracketValidationTest_unbalancedComplex - 2018.07.26 at 10h 48m 37s.xml">
+      <configuration name="MultiBracketValidationTest.unbalancedComplex" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MultiBracketValidationTest_unBalancedSimple - 2018.07.26 at 10h 49m 06s.xml">
+      <configuration name="MultiBracketValidationTest.unBalancedSimple" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MultiBracketValidationTest_unbalancedComplex - 2018.07.26 at 10h 49m 32s.xml">
+      <configuration name="MultiBracketValidationTest.unbalancedComplex" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MultiBracketValidationTest_unbalancedComplex - 2018.07.26 at 10h 49m 39s.xml">
+      <configuration name="MultiBracketValidationTest.unbalancedComplex" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6601000" />
+    <option name="totallyTimeSpent" value="13094000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -516,19 +474,19 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.0" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.28551725" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.0" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32965517" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32965517" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24313408" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24717286" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -549,20 +507,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day01/ArrayReverseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/day01/ArrayReverse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -696,20 +640,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="70">
           <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day02/ArrayShift.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day01/ArrayReverse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -855,37 +785,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day12/AnimalShelter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="44" column="23" selection-start-line="44" selection-start-column="23" selection-end-line="44" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day11/QueueWithStacksTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/day09/hasLoopTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1119">
           <caret line="79" column="2" selection-start-line="79" selection-start-column="2" selection-end-line="79" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day12/AnimalShelterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="75" column="29" selection-start-line="75" selection-start-column="29" selection-end-line="75" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -896,6 +799,61 @@
             <caret line="8" column="149" selection-start-line="8" selection-start-column="149" selection-end-line="8" selection-end-column="149" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day11/QueueWithStacksTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day01/ArrayReverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day02/ArrayShift.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day12/AnimalShelterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="75" column="29" selection-start-line="75" selection-start-column="29" selection-end-line="75" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day12/AnimalShelter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="48" selection-start-line="33" selection-start-column="48" selection-end-line="33" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day13/MultiBracketValidation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-254">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day13/MultiBracketValidationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="54" column="43" selection-start-line="54" selection-start-column="43" selection-end-line="54" selection-end-column="43" />
         </state>
       </provider>
     </entry>
