@@ -8,7 +8,7 @@ public class MultiBracketValidation {
     // as it's only argument and returns a boolean. If the string is balanced (each opening bracket
     // has a matching closing bracket) return true, otherwise return false.
 
-    public boolean MultiBracketValidation (String input) {
+    public static boolean MultiBracketValidation (String input) {
         // Create a stack to store opening brackets and a result variable
         // that is true by default
         Stack<Character> ss = new Stack<>();
