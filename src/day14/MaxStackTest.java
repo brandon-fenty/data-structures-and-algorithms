@@ -2,6 +2,7 @@ package day14;
 
 import org.junit.jupiter.api.Test;
 
+import java.util.Arrays;
 import java.util.Stack;
 
 import static org.junit.jupiter.api.Assertions.*;
@@ -10,7 +11,8 @@ class MaxStackTest {
 
     @Test
     void maxAtTop () {
-        Stack<Integer> ss = new Stack<>();
+        System.out.println("---- Max at top -----");
+        MaxStack ss = new MaxStack();
         ss.push(1);
         ss.push(2);
         ss.push(3);
@@ -26,7 +28,8 @@ class MaxStackTest {
 
     @Test
     void maxAtBottom() {
-        Stack<Integer> ss = new Stack<>();
+        System.out.println("---- Max at bottom -----");
+        MaxStack ss = new MaxStack();
         ss.push(5);
         ss.push(4);
         ss.push(3);
@@ -42,7 +45,8 @@ class MaxStackTest {
 
     @Test
     void maxInMiddle() {
-        Stack<Integer> ss = new Stack<>();
+        System.out.println("---- Max in middle of stack -----");
+        MaxStack ss = new MaxStack();
         ss.push(1);
         ss.push(2);
         ss.push(9);
@@ -53,6 +57,40 @@ class MaxStackTest {
         int expected = 9;
         System.out.println("Expected: " + expected);
         System.out.println("Result: " + result);
+        assertEquals(expected, result);
+    }
+
+    @Test
+    void checkOrder () {
+        System.out.println("---- Check order of Stack -----");
+        MaxStack ss = new MaxStack();
+        ss.push(5);
+        ss.push(4);
+        ss.push(3);
+        ss.push(2);
+        ss.push(1);
+
+        System.out.println("Input: " + Arrays.toString(ss.toArray()));
+        int maxVal = MaxStack.max(ss);
+        String result = Arrays.toString(ss.toArray());
+        String expected = "[5, 4, 3, 2, 1]";
+        System.out.println("Expected: " + expected);
+        System.out.println("Result: " + result);
+        System.out.println("Max val: " + maxVal);
+        assertEquals(expected, result);
+    }
+
+    @Test
+    void emptyStack () {
+        System.out.println("---- Empty Stack -----");
+        MaxStack ss = new MaxStack();
+        System.out.println("Input: " + Arrays.toString(ss.toArray()));
+        int maxVal = MaxStack.max(ss);
+        String result = Arrays.toString(ss.toArray());
+        String expected = "[]";
+        System.out.println("Expected: " + expected);
+        System.out.println("Result: " + result);
+        System.out.println("Max val: " + maxVal);
         assertEquals(expected, result);
     }
 }

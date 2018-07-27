@@ -4,6 +4,14 @@ import java.util.Stack;
 
 public class MaxStack extends Stack {
 
+    // Not sure if I did this right, I still don't understand the concept of
+    // inheritance all that well.
+
+    public Stack<Integer> MaxStack () {
+        Stack<Integer> ss = new Stack<>();
+        return ss;
+    }
+
     // Write a method that extends off the stack class and returns
     // the highest value stored in a stack
 
@@ -33,4 +41,6 @@ public class MaxStack extends Stack {
 
         return maxVal;
     }
+
+
 }
