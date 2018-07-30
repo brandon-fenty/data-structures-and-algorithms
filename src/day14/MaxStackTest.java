@@ -80,17 +80,4 @@ class MaxStackTest {
         assertEquals(expected, result);
     }
 
-    @Test
-    void emptyStack () {
-        System.out.println("---- Empty Stack -----");
-        MaxStack ss = new MaxStack();
-        System.out.println("Input: " + Arrays.toString(ss.toArray()));
-        int maxVal = MaxStack.max(ss);
-        String result = Arrays.toString(ss.toArray());
-        String expected = "[]";
-        System.out.println("Expected: " + expected);
-        System.out.println("Result: " + result);
-        System.out.println("Max val: " + maxVal);
-        assertEquals(expected, result);
-    }
 }
