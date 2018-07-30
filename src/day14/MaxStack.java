@@ -4,14 +4,6 @@ import java.util.Stack;
 
 public class MaxStack extends Stack {
 
-    // Not sure if I did this right, I still don't understand the concept of
-    // inheritance all that well.
-
-    public Stack<Integer> MaxStack () {
-        Stack<Integer> ss = new Stack<>();
-        return ss;
-    }
-
     // Write a method that extends off the stack class and returns
     // the highest value stored in a stack
 
@@ -20,7 +12,8 @@ public class MaxStack extends Stack {
         // stack you are trying to get the maximum value of. Also declare
         // a variable to store the maximum value.
         Stack<Integer> temp = new Stack<>();
-        int maxVal = 0;
+        int maxVal = input.peek();
+
         // Enter a while loop that will run until the input is empty
         while (!input.isEmpty()) {
             // Declare a current variable that keep's track of the value

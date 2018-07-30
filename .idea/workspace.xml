@@ -30,34 +30,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MaxStack.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day14/MaxStack.java">
+      <file leaf-file-name="EeneyMeeneyMineyMoe.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/day15/EeneyMeeneyMineyMoe.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/day14/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="165">
-                <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MaxStackTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day14/MaxStackTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="85" column="37" selection-start-line="85" selection-start-column="37" selection-end-line="85" selection-end-column="37" />
+            <state relative-caret-position="150">
+              <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#149#150#0" expanded="true" />
+                <element signature="e#166#167#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -68,8 +49,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -79,7 +60,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/D01_ArrayReverseTest.java" />
         <option value="$PROJECT_DIR$/src/D01_ArrayReverse.java" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/day01/README.md" />
@@ -127,9 +107,10 @@
         <option value="$PROJECT_DIR$/src/day13/MultiBracketValidationTest.java" />
         <option value="$PROJECT_DIR$/src/day13/README.md" />
         <option value="$PROJECT_DIR$/src/day14/MaximumStack.java" />
-        <option value="$PROJECT_DIR$/src/day14/MaxStackTest.java" />
-        <option value="$PROJECT_DIR$/src/day14/MaxStack.java" />
         <option value="$PROJECT_DIR$/src/day14/README.md" />
+        <option value="$PROJECT_DIR$/src/day14/MaxStack.java" />
+        <option value="$PROJECT_DIR$/src/day14/MaxStackTest.java" />
+        <option value="$PROJECT_DIR$/src/day15/EeneyMeeneyMineyMoe.java" />
       </list>
     </option>
   </component>
@@ -154,6 +135,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -170,21 +153,13 @@
               <item name="data-structures-and-algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="data-structures-and-algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="day06" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="data-structures-and-algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="data-structures-and-algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="day14" type="462c0819:PsiDirectoryNode" />
+              <item name="day15" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -245,9 +220,43 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MaxStackTest">
+  <component name="RunManager" selected="Application.EeneyMeeneyMineyMoe">
+    <configuration name="EeneyMeeneyMineyMoe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day15.EeneyMeeneyMineyMoe" />
+      <module name="data-structures-and-algorithms" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="LinkedListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data-structures-and-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="day06" />
+      <option name="MAIN_CLASS_NAME" value="day06.LinkedListTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration name="MaxStackTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="data-structures-and-algorithms" />
@@ -272,29 +281,6 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="MaxStackTest.checkOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="data-structures-and-algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day14.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="day14" />
-      <option name="MAIN_CLASS_NAME" value="day14.MaxStackTest" />
-      <option name="METHOD_NAME" value="checkOrder" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
     <configuration name="MaxStackTest.emptyStack" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="data-structures-and-algorithms" />
       <extension name="coverage">
@@ -308,29 +294,6 @@
       <option name="PACKAGE_NAME" value="day14" />
       <option name="MAIN_CLASS_NAME" value="day14.MaxStackTest" />
       <option name="METHOD_NAME" value="emptyStack" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="MaxStackTest.maxAtTop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="data-structures-and-algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day14.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="day14" />
-      <option name="MAIN_CLASS_NAME" value="day14.MaxStackTest" />
-      <option name="METHOD_NAME" value="maxAtTop" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -403,18 +366,18 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.MaxStackTest.maxInMiddle" />
       <item itemvalue="JUnit.MaxStackTest" />
-      <item itemvalue="JUnit.MaxStackTest.checkOrder" />
       <item itemvalue="JUnit.MaxStackTest.emptyStack" />
-      <item itemvalue="JUnit.MaxStackTest.maxAtTop" />
+      <item itemvalue="JUnit.MaxStackTest.maxInMiddle" />
+      <item itemvalue="JUnit.LinkedListTest" />
+      <item itemvalue="Application.EeneyMeeneyMineyMoe" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EeneyMeeneyMineyMoe" />
+        <item itemvalue="JUnit.LinkedListTest" />
         <item itemvalue="JUnit.MaxStackTest" />
-        <item itemvalue="JUnit.MaxStackTest.maxAtTop" />
         <item itemvalue="JUnit.MaxStackTest.emptyStack" />
-        <item itemvalue="JUnit.MaxStackTest.checkOrder" />
         <item itemvalue="JUnit.MaxStackTest.maxInMiddle" />
       </list>
     </recent_temporary>
@@ -433,44 +396,16 @@
       <workItem from="1532496658049" duration="5787000" />
       <workItem from="1532564628802" duration="6598000" />
       <workItem from="1532628273970" duration="123000" />
-      <workItem from="1532648236248" duration="7457000" />
+      <workItem from="1532648236248" duration="7809000" />
+      <workItem from="1532722093541" duration="502000" />
+      <workItem from="1532734223408" duration="91000" />
+      <workItem from="1532753482827" duration="53000" />
+      <workItem from="1532819133536" duration="106000" />
+      <workItem from="1532967756946" duration="912000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MultiBracketValidationTest_unbalancedComplex - 2018.07.26 at 10h 49m 39s.xml">
-      <configuration name="MultiBracketValidationTest.unbalancedComplex" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MaxStackTest_max - 2018.07.26 at 18h 14m 03s.xml">
-      <configuration name="MaxStackTest.max" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MaxStackTest_maxAtBottom - 2018.07.26 at 18h 14m 39s.xml">
-      <configuration name="MaxStackTest.maxAtBottom" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MaxStackTest_maxInMiddle - 2018.07.26 at 18h 15m 39s.xml">
-      <configuration name="MaxStackTest.maxInMiddle" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MaxStackTest - 2018.07.26 at 18h 22m 58s.xml">
-      <configuration name="MaxStackTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MaxStackTest_checkOrder - 2018.07.27 at 08h 59m 14s.xml">
-      <configuration name="MaxStackTest.checkOrder" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MaxStackTest_checkOrder - 2018.07.27 at 09h 00m 40s.xml">
-      <configuration name="MaxStackTest.checkOrder" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MaxStackTest_checkOrder - 2018.07.27 at 09h 03m 28s.xml">
-      <configuration name="MaxStackTest.checkOrder" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MaxStackTest_checkOrder - 2018.07.27 at 09h 04m 39s.xml">
-      <configuration name="MaxStackTest.checkOrder" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MaxStackTest_emptyStack - 2018.07.27 at 09h 04m 41s.xml">
-      <configuration name="MaxStackTest.emptyStack" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MaxStackTest - 2018.07.27 at 09h 04m 53s.xml">
-      <configuration name="MaxStackTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="MaxStackTest - 2018.07.27 at 09h 20m 13s.xml">
       <configuration name="MaxStackTest" configurationId="JUnit" />
     </history-entry>
@@ -480,9 +415,42 @@
     <history-entry file="MaxStackTest - 2018.07.27 at 09h 31m 39s.xml">
       <configuration name="MaxStackTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="MaxStackTest_maxAtTop - 2018.07.27 at 13h 08m 57s.xml">
+      <configuration name="MaxStackTest.maxAtTop" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MaxStackTest_emptyStack - 2018.07.27 at 13h 09m 08s.xml">
+      <configuration name="MaxStackTest.emptyStack" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MaxStackTest_emptyStack - 2018.07.27 at 13h 09m 23s.xml">
+      <configuration name="MaxStackTest.emptyStack" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MaxStackTest_emptyStack - 2018.07.27 at 13h 10m 35s.xml">
+      <configuration name="MaxStackTest.emptyStack" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MaxStackTest_maxAtBottom - 2018.07.27 at 13h 13m 03s.xml">
+      <configuration name="MaxStackTest.maxAtBottom" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MaxStackTest_maxInMiddle - 2018.07.27 at 13h 13m 08s.xml">
+      <configuration name="MaxStackTest.maxInMiddle" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MaxStackTest_emptyStack - 2018.07.27 at 13h 13m 51s.xml">
+      <configuration name="MaxStackTest.emptyStack" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MaxStackTest_emptyStack - 2018.07.27 at 13h 14m 10s.xml">
+      <configuration name="MaxStackTest.emptyStack" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MaxStackTest_emptyStack - 2018.07.27 at 13h 15m 36s.xml">
+      <configuration name="MaxStackTest.emptyStack" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MaxStackTest - 2018.07.27 at 13h 16m 22s.xml">
+      <configuration name="MaxStackTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LinkedListTest - 2018.07.28 at 16h 06m 45s.xml">
+      <configuration name="LinkedListTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21218000" />
+    <option name="totallyTimeSpent" value="23234000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -490,21 +458,19 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32965517" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32965517" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32965517" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.28551725" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32965517" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.23586208" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2552504" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27544427" />
       <window_info anchor="right" id="Database" order="4" weight="0.32956383" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -514,35 +480,37 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32965517" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32965517" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.28551725" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2552504" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32965517" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" id="Database" order="8" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.0" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.28551725" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="Capture Tool" order="5" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32965517" />
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info id="Favorites" order="6" side_tool="true" />
@@ -563,24 +531,10 @@
           <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="13" />
+      <option name="time" value="16" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/day03/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="75" selection-start-line="5" selection-start-column="75" selection-end-line="5" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day03/ArrayBinarySearchTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="35" column="60" selection-start-line="35" selection-start-column="60" selection-end-line="35" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/day03/MyArrayList.java" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/javafx.graphics/com/sun/scenario/Settings.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -590,6 +544,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/day02/README.md">
+      <provider editor-type-id="text-editor" />
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="165">
@@ -598,7 +553,6 @@
           <second_editor />
         </state>
       </provider>
-      <provider editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/day06/LinkedNode.java" />
     <entry file="file://$PROJECT_DIR$/src/day02/ArrayShiftTest.java">
@@ -679,24 +633,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day06/LinkedListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="81" column="5" lean-forward="true" selection-start-line="81" selection-start-column="5" selection-end-line="81" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/day06/MergeListTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
           <caret line="42" column="27" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day06/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -795,13 +735,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day01/ArrayReverse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/day02/ArrayShift.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -870,13 +803,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day06/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1359">
-          <caret line="191" column="82" selection-start-line="191" selection-start-column="82" selection-end-line="191" selection-end-column="82" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/day07/KthElement.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="41">
@@ -897,30 +823,70 @@
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/8d5abf66-480c-4e28-8fd5-7c3b7cc19bb2/console.sql">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/day14/assets/max-stack.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/day14/MaxStackTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="85" column="37" selection-start-line="85" selection-start-column="37" selection-end-line="85" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day14/MaxStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        <state relative-caret-position="1215">
+          <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/day14/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="165">
-            <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+          <first_editor relative-caret-position="255">
+            <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day01/ArrayReverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day14/MaxStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day06/LinkedListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day06/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day06/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="191" column="82" selection-start-line="191" selection-start-column="82" selection-end-line="191" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day15/EeneyMeeneyMineyMoe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#149#150#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
