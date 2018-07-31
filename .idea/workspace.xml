@@ -28,24 +28,39 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="EeneyMeeneyMineyMoe.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day15/EeneyMeeneyMineyMoe.java">
+      <file leaf-file-name="FizzBuzzTree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day16/FizzBuzzTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="41" column="25" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="356">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FizzBuzzTreeTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/day16/FizzBuzzTreeTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="246">
+              <caret line="34" column="43" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TreeNode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day16/TreeNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/day15/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="330">
-                <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+              <first_editor relative-caret-position="165">
+                <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
               </first_editor>
               <second_editor />
             </state>
@@ -57,8 +72,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -68,9 +83,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/src/day01/README.md" />
-        <option value="$PROJECT_DIR$/src/day03/MyArrayList.java" />
         <option value="$PROJECT_DIR$/src/day03/README.md" />
         <option value="$PROJECT_DIR$/src/day03/ArrayBinarySearchTest.java" />
         <option value="$PROJECT_DIR$/src/day03/ArrayBinarySearch.java" />
@@ -119,6 +131,9 @@
         <option value="$PROJECT_DIR$/src/day14/MaxStackTest.java" />
         <option value="$PROJECT_DIR$/src/day15/EeneyMeeneyMineyMoe.java" />
         <option value="$PROJECT_DIR$/src/day15/README.md" />
+        <option value="$PROJECT_DIR$/src/day16/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/day16/FizzBuzzTree.java" />
+        <option value="$PROJECT_DIR$/src/day16/FizzBuzzTreeTest.java" />
       </list>
     </option>
   </component>
@@ -131,9 +146,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1280" />
-    <option name="height" value="800" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="191" />
+    <option name="y" value="23" />
+    <option name="width" value="1089" />
+    <option name="height" value="707" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -143,8 +160,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -161,13 +179,12 @@
               <item name="data-structures-and-algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="data-structures-and-algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="day15" type="462c0819:PsiDirectoryNode" />
+              <item name="day16" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -189,11 +206,21 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="day16" />
       <recent name="day14" />
       <recent name="day13" />
       <recent name="day12" />
       <recent name="day11" />
-      <recent name="day04" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/day10/assets" />
+      <recent name="$PROJECT_DIR$/src/day08/assets" />
+      <recent name="$PROJECT_DIR$/src/day09/assets" />
+      <recent name="$PROJECT_DIR$/src/assets" />
+      <recent name="$PROJECT_DIR$/src/day07" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="day09" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -204,16 +231,6 @@
       <recent name="$PROJECT_DIR$/src/day13/assets" />
       <recent name="$PROJECT_DIR$/src/day12/assets" />
       <recent name="$PROJECT_DIR$/src/day11/assets" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="day09" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/day10/assets" />
-      <recent name="$PROJECT_DIR$/src/day08/assets" />
-      <recent name="$PROJECT_DIR$/src/day09/assets" />
-      <recent name="$PROJECT_DIR$/src/assets" />
-      <recent name="$PROJECT_DIR$/src/day07" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -228,7 +245,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EeneyMeeneyMineyMoe">
+  <component name="RunManager" selected="JUnit.FizzBuzzTreeTest.fizzBuzzTree">
     <configuration name="EeneyMeeneyMineyMoe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day15.EeneyMeeneyMineyMoe" />
       <module name="data-structures-and-algorithms" />
@@ -242,6 +259,29 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="FizzBuzzTreeTest.fizzBuzzTree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data-structures-and-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="day16" />
+      <option name="MAIN_CLASS_NAME" value="day16.FizzBuzzTreeTest" />
+      <option name="METHOD_NAME" value="fizzBuzzTree" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration name="LinkedListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="data-structures-and-algorithms" />
@@ -312,29 +352,6 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="MaxStackTest.maxInMiddle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="data-structures-and-algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day14.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="day14" />
-      <option name="MAIN_CLASS_NAME" value="day14.MaxStackTest" />
-      <option name="METHOD_NAME" value="maxInMiddle" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -376,17 +393,17 @@
     <list>
       <item itemvalue="JUnit.MaxStackTest" />
       <item itemvalue="JUnit.MaxStackTest.emptyStack" />
-      <item itemvalue="JUnit.MaxStackTest.maxInMiddle" />
       <item itemvalue="JUnit.LinkedListTest" />
       <item itemvalue="Application.EeneyMeeneyMineyMoe" />
+      <item itemvalue="JUnit.FizzBuzzTreeTest.fizzBuzzTree" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FizzBuzzTreeTest.fizzBuzzTree" />
         <item itemvalue="Application.EeneyMeeneyMineyMoe" />
         <item itemvalue="JUnit.LinkedListTest" />
         <item itemvalue="JUnit.MaxStackTest" />
         <item itemvalue="JUnit.MaxStackTest.emptyStack" />
-        <item itemvalue="JUnit.MaxStackTest.maxInMiddle" />
       </list>
     </recent_temporary>
   </component>
@@ -409,7 +426,11 @@
       <workItem from="1532734223408" duration="91000" />
       <workItem from="1532753482827" duration="53000" />
       <workItem from="1532819133536" duration="106000" />
-      <workItem from="1532967756946" duration="1917000" />
+      <workItem from="1532967756946" duration="2708000" />
+      <workItem from="1533049774908" duration="3571000" />
+      <workItem from="1533059244744" duration="17000" />
+      <workItem from="1533059750670" duration="2000" />
+      <workItem from="1533067467166" duration="885000" />
     </task>
     <servers />
   </component>
@@ -458,10 +479,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24239000" />
+    <option name="totallyTimeSpent" value="29505000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <frame x="191" y="23" width="1089" height="707" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -473,12 +494,12 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32965517" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3295082" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.28551725" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.23586208" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.0" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27544427" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21585482" />
       <window_info anchor="right" id="Database" order="4" weight="0.32956383" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -497,26 +518,26 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Database" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.28551725" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32965517" />
       <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2552504" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32965517" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Database" order="8" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.28551725" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="Capture Tool" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32965517" />
@@ -543,25 +564,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/javafx.graphics/com/sun/scenario/Settings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day02/README.md">
-      <provider editor-type-id="text-editor" />
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="165">
-            <caret line="8" column="70" selection-start-line="8" selection-start-column="70" selection-end-line="8" selection-end-column="70" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day06/LinkedNode.java" />
     <entry file="file://$PROJECT_DIR$/src/day02/ArrayShiftTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -885,23 +887,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day15/EeneyMeeneyMineyMoe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="41" column="25" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/day15/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="330">
-            <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+          <first_editor relative-caret-position="165">
+            <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day15/EeneyMeeneyMineyMoe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="42" column="38" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day16/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day16/FizzBuzzTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day16/FizzBuzzTreeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="34" column="43" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="43" />
         </state>
       </provider>
     </entry>
