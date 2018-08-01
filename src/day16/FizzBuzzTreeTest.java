@@ -32,6 +32,8 @@ class FizzBuzzTreeTest {
         n75.left = n66;
         n75.right = n99;
 
-        System.out.println(FizzBuzzTree(tree));
+        System.out.println("Tree: " + tree.toString());
+        System.out.print("Result: ");
+        FizzBuzzTree.fizzBuzzTree(tree.root);
     }
 }

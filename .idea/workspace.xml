@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="2451a47b-02d9-4e24-b215-c3e84fd3b4a7" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day16/FizzBuzzTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day16/FizzBuzzTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day16/FizzBuzzTreeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day16/FizzBuzzTreeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day16/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day16/TreeNode.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,20 +31,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FizzBuzzTree.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="FizzBuzzTree.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/day16/FizzBuzzTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="143">
+              <caret line="26" column="40" lean-forward="true" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FizzBuzzTreeTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FizzBuzzTreeTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/day16/FizzBuzzTreeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="34" column="43" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="43" />
+            <state relative-caret-position="342">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
             </state>
           </provider>
         </entry>
@@ -131,9 +134,9 @@
         <option value="$PROJECT_DIR$/src/day14/MaxStackTest.java" />
         <option value="$PROJECT_DIR$/src/day15/EeneyMeeneyMineyMoe.java" />
         <option value="$PROJECT_DIR$/src/day15/README.md" />
+        <option value="$PROJECT_DIR$/src/day16/FizzBuzzTreeTest.java" />
         <option value="$PROJECT_DIR$/src/day16/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/day16/FizzBuzzTree.java" />
-        <option value="$PROJECT_DIR$/src/day16/FizzBuzzTreeTest.java" />
       </list>
     </option>
   </component>
@@ -146,7 +149,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="191" />
     <option name="y" value="23" />
     <option name="width" value="1089" />
@@ -160,9 +163,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -185,6 +185,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -430,60 +433,60 @@
       <workItem from="1533049774908" duration="3571000" />
       <workItem from="1533059244744" duration="17000" />
       <workItem from="1533059750670" duration="2000" />
-      <workItem from="1533067467166" duration="885000" />
+      <workItem from="1533067467166" duration="4080000" />
+      <workItem from="1533086845020" duration="680000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MaxStackTest - 2018.07.27 at 09h 20m 13s.xml">
-      <configuration name="MaxStackTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MaxStackTest_maxAtTop - 2018.07.27 at 09h 30m 16s.xml">
-      <configuration name="MaxStackTest.maxAtTop" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MaxStackTest - 2018.07.27 at 09h 31m 39s.xml">
-      <configuration name="MaxStackTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MaxStackTest_maxAtTop - 2018.07.27 at 13h 08m 57s.xml">
-      <configuration name="MaxStackTest.maxAtTop" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MaxStackTest_emptyStack - 2018.07.27 at 13h 09m 08s.xml">
-      <configuration name="MaxStackTest.emptyStack" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MaxStackTest_emptyStack - 2018.07.27 at 13h 09m 23s.xml">
-      <configuration name="MaxStackTest.emptyStack" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MaxStackTest_emptyStack - 2018.07.27 at 13h 10m 35s.xml">
-      <configuration name="MaxStackTest.emptyStack" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MaxStackTest_maxAtBottom - 2018.07.27 at 13h 13m 03s.xml">
-      <configuration name="MaxStackTest.maxAtBottom" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MaxStackTest_maxInMiddle - 2018.07.27 at 13h 13m 08s.xml">
-      <configuration name="MaxStackTest.maxInMiddle" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MaxStackTest_emptyStack - 2018.07.27 at 13h 13m 51s.xml">
-      <configuration name="MaxStackTest.emptyStack" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MaxStackTest_emptyStack - 2018.07.27 at 13h 14m 10s.xml">
-      <configuration name="MaxStackTest.emptyStack" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MaxStackTest_emptyStack - 2018.07.27 at 13h 15m 36s.xml">
-      <configuration name="MaxStackTest.emptyStack" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MaxStackTest - 2018.07.27 at 13h 16m 22s.xml">
-      <configuration name="MaxStackTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="LinkedListTest - 2018.07.28 at 16h 06m 45s.xml">
       <configuration name="LinkedListTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="FizzBuzzTreeTest_fizzBuzzTree - 2018.07.31 at 13h 35m 27s.xml">
+      <configuration name="FizzBuzzTreeTest.fizzBuzzTree" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FizzBuzzTreeTest_fizzBuzzTree - 2018.07.31 at 13h 35m 42s.xml">
+      <configuration name="FizzBuzzTreeTest.fizzBuzzTree" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FizzBuzzTreeTest_fizzBuzzTree - 2018.07.31 at 14h 11m 36s.xml">
+      <configuration name="FizzBuzzTreeTest.fizzBuzzTree" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FizzBuzzTreeTest_fizzBuzzTree - 2018.07.31 at 14h 12m 33s.xml">
+      <configuration name="FizzBuzzTreeTest.fizzBuzzTree" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FizzBuzzTreeTest_fizzBuzzTree - 2018.07.31 at 14h 12m 52s.xml">
+      <configuration name="FizzBuzzTreeTest.fizzBuzzTree" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FizzBuzzTreeTest_fizzBuzzTree - 2018.07.31 at 14h 21m 15s.xml">
+      <configuration name="FizzBuzzTreeTest.fizzBuzzTree" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FizzBuzzTreeTest_fizzBuzzTree - 2018.07.31 at 14h 21m 31s.xml">
+      <configuration name="FizzBuzzTreeTest.fizzBuzzTree" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FizzBuzzTreeTest_fizzBuzzTree - 2018.07.31 at 14h 22m 23s.xml">
+      <configuration name="FizzBuzzTreeTest.fizzBuzzTree" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FizzBuzzTreeTest_fizzBuzzTree - 2018.07.31 at 14h 23m 14s.xml">
+      <configuration name="FizzBuzzTreeTest.fizzBuzzTree" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FizzBuzzTreeTest_fizzBuzzTree - 2018.07.31 at 14h 23m 28s.xml">
+      <configuration name="FizzBuzzTreeTest.fizzBuzzTree" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FizzBuzzTreeTest_fizzBuzzTree - 2018.07.31 at 14h 25m 22s.xml">
+      <configuration name="FizzBuzzTreeTest.fizzBuzzTree" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FizzBuzzTreeTest_fizzBuzzTree - 2018.07.31 at 18h 28m 46s.xml">
+      <configuration name="FizzBuzzTreeTest.fizzBuzzTree" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FizzBuzzTreeTest_fizzBuzzTree - 2018.07.31 at 18h 35m 15s.xml">
+      <configuration name="FizzBuzzTreeTest.fizzBuzzTree" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29505000" />
+    <option name="totallyTimeSpent" value="33380000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="191" y="23" width="1089" height="707" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -494,12 +497,12 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.19508196" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.28551725" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.0" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3295082" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21585482" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21967526" />
       <window_info anchor="right" id="Database" order="4" weight="0.32956383" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -516,16 +519,16 @@
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.28551725" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32965517" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2552504" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -536,7 +539,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.0" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.28551725" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info id="Capture Tool" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -911,17 +914,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day16/FizzBuzzTree.java">
+    <entry file="file://$PROJECT_DIR$/src/day16/FizzBuzzTreeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="342">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day16/FizzBuzzTreeTest.java">
+    <entry file="file://$PROJECT_DIR$/src/day16/FizzBuzzTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="34" column="43" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="43" />
+        <state relative-caret-position="143">
+          <caret line="26" column="40" lean-forward="true" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
         </state>
       </provider>
     </entry>
