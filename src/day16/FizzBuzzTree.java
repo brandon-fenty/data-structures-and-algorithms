@@ -6,7 +6,7 @@ package day16;
 
 public class FizzBuzzTree {
     // Declare a node at the root
-    protected TreeNode root;
+    public TreeNode root;
 
     public static void fizzBuzzTree (TreeNode current) {
         if (current != null) {
