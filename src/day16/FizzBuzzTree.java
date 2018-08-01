@@ -8,35 +8,27 @@ public class FizzBuzzTree {
     // Declare a node at the root
     public TreeNode root;
 
-    public String FizzBuzzTree (TreeNode current) {
-        while (current != null) {
-            if(current.left != null) {
-                FizzBuzzTree(current.left);
-            }
-            if (current.right != null) {
-                FizzBuzzTree(current.right);
-            }
+    public static void fizzBuzzTree (TreeNode current) {
+        if (current != null) {
+            fizzBuzzTree(current.left);
             fizzBitch(current.data);
+            fizzBuzzTree(current.right);
         }
-        return null;
     }
 
-    public void fizzBitch (int val) {
-
+    public static void fizzBitch (int val) {
         if (val % 3 == 0 && val % 5 == 0) {
-            System.out.println("fizzbuzz");
+            System.out.print("fizzbuzz ");
         } else if (val % 3 == 0) {
-            System.out.println("fizz");
+            System.out.print("fizz ");
         } else if (val % 5 == 0) {
-            System.out.println("buzz");
+            System.out.print("buzz ");
+        } else {
+            System.out.print(val + " ");
         }
     }
 
     // Helper functions
-    public TreeNode getRoot () {
-        return root;
-    }
-
     public String toString () {
         StringBuilder builder = new StringBuilder();
         return inOrder(builder, this.root).toString();
@@ -48,7 +40,7 @@ public class FizzBuzzTree {
         }
 
         inOrder(builder, current.left);
-        builder.append(current.data + "-");
+        builder.append(current.data + " ");
         inOrder(builder, current.right);
 
         return builder;
