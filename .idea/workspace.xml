@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2451a47b-02d9-4e24-b215-c3e84fd3b4a7" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day16/FizzBuzzTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day16/FizzBuzzTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day16/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day16/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day18/FindMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day18/FindMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day18/FindMaxTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day18/FindMaxTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,20 +34,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FizzBuzzTree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day16/FizzBuzzTree.java">
+      <file leaf-file-name="FindMax.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day18/FindMax.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BreadthFirstTraversal.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day17/BreadthFirstTraversal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="51" column="71" selection-start-line="51" selection-start-column="71" selection-end-line="51" selection-end-column="71" />
+            <state relative-caret-position="525">
+              <caret line="35" column="79" selection-start-line="35" selection-start-column="79" selection-end-line="35" selection-end-column="79" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -56,12 +46,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="FindMaxTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day18/FindMaxTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1380">
+              <caret line="96" column="25" selection-start-line="96" selection-start-column="25" selection-end-line="96" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/day17/README.md">
+        <entry file="file://$PROJECT_DIR$/src/day18/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="210">
-                <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+              <first_editor relative-caret-position="195">
+                <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
               </first_editor>
               <second_editor />
             </state>
@@ -73,18 +72,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
               <caret line="6" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day15/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="165">
-                <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
-              </first_editor>
-              <second_editor />
             </state>
           </provider>
         </entry>
@@ -105,9 +92,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/day05/MatrixRotation.java" />
-        <option value="$PROJECT_DIR$/src/day05/MatrixRotationTest.java" />
-        <option value="$PROJECT_DIR$/src/day02/ArrayShiftTest.java" />
         <option value="$PROJECT_DIR$/src/day02/ArrayShift.java" />
         <option value="$PROJECT_DIR$/src/day02/README.md" />
         <option value="$PROJECT_DIR$/src/day06/LinkedNode.java" />
@@ -156,6 +140,9 @@
         <option value="$PROJECT_DIR$/src/day17/BreadthFirstTraversalTest.java" />
         <option value="$PROJECT_DIR$/src/day17/BreadthFirstTraversal.java" />
         <option value="$PROJECT_DIR$/src/day17/README.md" />
+        <option value="$PROJECT_DIR$/src/day18/FindMax.java" />
+        <option value="$PROJECT_DIR$/src/day18/FindMaxTest.java" />
+        <option value="$PROJECT_DIR$/src/day18/README.md" />
       </list>
     </option>
   </component>
@@ -183,7 +170,6 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -201,18 +187,13 @@
               <item name="data-structures-and-algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="data-structures-and-algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="day16" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="data-structures-and-algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="data-structures-and-algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="day17" type="462c0819:PsiDirectoryNode" />
+              <item name="day18" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -234,24 +215,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="day18" />
       <recent name="day17" />
       <recent name="day16" />
       <recent name="day14" />
       <recent name="day13" />
-      <recent name="day12" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/day17/assets" />
-      <recent name="$PROJECT_DIR$/src/day15/assets" />
-      <recent name="$PROJECT_DIR$/src/day14/assets" />
-      <recent name="$PROJECT_DIR$/src/day13/assets" />
-      <recent name="$PROJECT_DIR$/src/day12/assets" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="day09" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/day10/assets" />
@@ -259,6 +227,19 @@
       <recent name="$PROJECT_DIR$/src/day09/assets" />
       <recent name="$PROJECT_DIR$/src/assets" />
       <recent name="$PROJECT_DIR$/src/day07" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="day09" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/day18/assets" />
+      <recent name="$PROJECT_DIR$/src/day17/assets" />
+      <recent name="$PROJECT_DIR$/src/day15/assets" />
+      <recent name="$PROJECT_DIR$/src/day14/assets" />
+      <recent name="$PROJECT_DIR$/src/day13/assets" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -273,7 +254,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BreadthFirstTraversal">
+  <component name="RunManager" selected="JUnit.FindMaxTest">
     <configuration name="BreadthFirstTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day17.BreadthFirstTraversal" />
       <module name="data-structures-and-algorithms" />
@@ -285,19 +266,77 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="EeneyMeeneyMineyMoe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day15.EeneyMeeneyMineyMoe" />
-      <module name="data-structures-and-algorithms" />
+    <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="FindMaxTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data-structures-and-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day15.*" />
+          <option name="PATTERN" value="day18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="day18" />
+      <option name="MAIN_CLASS_NAME" value="day18.FindMaxTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <configuration name="FindMaxTest.findMax" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data-structures-and-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day18.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="day18" />
+      <option name="MAIN_CLASS_NAME" value="day18.FindMaxTest" />
+      <option name="METHOD_NAME" value="findMax" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="FindMaxTest.findMaxAtRoot" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data-structures-and-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day18.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="day18" />
+      <option name="MAIN_CLASS_NAME" value="day18.FindMaxTest" />
+      <option name="METHOD_NAME" value="findMaxAtRoot" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration name="FizzBuzzTreeTest.fizzBuzzTree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="data-structures-and-algorithms" />
@@ -313,52 +352,6 @@
       <option name="MAIN_CLASS_NAME" value="day16.FizzBuzzTreeTest" />
       <option name="METHOD_NAME" value="fizzBuzzTree" />
       <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="LinkedListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="data-structures-and-algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day06.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="day06" />
-      <option name="MAIN_CLASS_NAME" value="day06.LinkedListTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="MaxStackTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="data-structures-and-algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day14.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="day14" />
-      <option name="MAIN_CLASS_NAME" value="day14.MaxStackTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -407,19 +400,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.MaxStackTest" />
-      <item itemvalue="JUnit.LinkedListTest" />
-      <item itemvalue="Application.EeneyMeeneyMineyMoe" />
       <item itemvalue="JUnit.FizzBuzzTreeTest.fizzBuzzTree" />
       <item itemvalue="Application.BreadthFirstTraversal" />
+      <item itemvalue="JUnit.FindMaxTest.findMax" />
+      <item itemvalue="JUnit.FindMaxTest.findMaxAtRoot" />
+      <item itemvalue="JUnit.FindMaxTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FindMaxTest" />
+        <item itemvalue="JUnit.FindMaxTest.findMaxAtRoot" />
+        <item itemvalue="JUnit.FindMaxTest.findMax" />
         <item itemvalue="Application.BreadthFirstTraversal" />
         <item itemvalue="JUnit.FizzBuzzTreeTest.fizzBuzzTree" />
-        <item itemvalue="Application.EeneyMeeneyMineyMoe" />
-        <item itemvalue="JUnit.LinkedListTest" />
-        <item itemvalue="JUnit.MaxStackTest" />
       </list>
     </recent_temporary>
   </component>
@@ -448,23 +441,12 @@
       <workItem from="1533059750670" duration="2000" />
       <workItem from="1533067467166" duration="4080000" />
       <workItem from="1533086845020" duration="680000" />
-      <workItem from="1533141568472" duration="3288000" />
+      <workItem from="1533141568472" duration="3565000" />
+      <workItem from="1533226905131" duration="2709000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LinkedListTest - 2018.07.28 at 16h 06m 45s.xml">
-      <configuration name="LinkedListTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FizzBuzzTreeTest_fizzBuzzTree - 2018.07.31 at 13h 35m 27s.xml">
-      <configuration name="FizzBuzzTreeTest.fizzBuzzTree" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FizzBuzzTreeTest_fizzBuzzTree - 2018.07.31 at 13h 35m 42s.xml">
-      <configuration name="FizzBuzzTreeTest.fizzBuzzTree" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FizzBuzzTreeTest_fizzBuzzTree - 2018.07.31 at 14h 11m 36s.xml">
-      <configuration name="FizzBuzzTreeTest.fizzBuzzTree" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="FizzBuzzTreeTest_fizzBuzzTree - 2018.07.31 at 14h 12m 33s.xml">
       <configuration name="FizzBuzzTreeTest.fizzBuzzTree" configurationId="JUnit" />
     </history-entry>
@@ -495,9 +477,21 @@
     <history-entry file="FizzBuzzTreeTest_fizzBuzzTree - 2018.07.31 at 18h 35m 15s.xml">
       <configuration name="FizzBuzzTreeTest.fizzBuzzTree" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="FindMaxTest_findMax - 2018.08.02 at 09h 42m 44s.xml">
+      <configuration name="FindMaxTest.findMax" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FindMaxTest_findMax - 2018.08.02 at 09h 46m 16s.xml">
+      <configuration name="FindMaxTest.findMax" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FindMaxTest_findMaxAtRoot - 2018.08.02 at 10h 13m 41s.xml">
+      <configuration name="FindMaxTest.findMaxAtRoot" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FindMaxTest - 2018.08.02 at 10h 14m 55s.xml">
+      <configuration name="FindMaxTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36668000" />
+    <option name="totallyTimeSpent" value="39654000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -512,14 +506,13 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.19448276" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2910345" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.28551725" />
-      <window_info anchor="right" id="Coverage" side_tool="true" visible="true" weight="0.0" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.0" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18901454" />
-      <window_info anchor="right" id="Database" order="4" weight="0.32956383" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1914378" />
+      <window_info anchor="right" id="Database" order="4" sideWeight="0.49931034" weight="0.32956383" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -527,6 +520,7 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="4" sideWeight="0.5006896" side_tool="true" weight="0.32956383" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -535,17 +529,17 @@
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.28551725" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32965517" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2552504" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32965517" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -555,10 +549,10 @@
       <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.0" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.28551725" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info id="Capture Tool" order="5" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32965517" />
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info id="Favorites" order="6" side_tool="true" />
@@ -579,34 +573,10 @@
           <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="16" />
+      <option name="time" value="17" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/day07/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="165">
-            <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day07/KthElementTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day06/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.0.0/junit-platform-commons-1.0.0.jar!/org/junit/platform/commons/util/ReflectionUtils.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -895,16 +865,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day15/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="165">
-            <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/day15/EeneyMeeneyMineyMoe.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="343">
@@ -926,10 +886,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day17/BreadthFirstTraversalTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="13" selection-start-line="13" selection-end-line="34" selection-end-column="41" />
+    <entry file="file://$PROJECT_DIR$/src/day17/BreadthFirstTraversalTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/day15/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="300">
+            <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
@@ -940,21 +904,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/day17/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="210">
+            <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/day17/BreadthFirstTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="51" column="71" selection-start-line="51" selection-start-column="71" selection-end-line="51" selection-end-column="71" />
+        <state relative-caret-position="73">
+          <caret line="11" selection-start-line="11" selection-end-line="30" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day17/README.md">
+    <entry file="file://$PROJECT_DIR$/src/day18/FindMax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="79" selection-start-line="35" selection-start-column="79" selection-end-line="35" selection-end-column="79" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day18/FindMaxTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1380">
+          <caret line="96" column="25" selection-start-line="96" selection-start-column="25" selection-end-line="96" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day18/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="210">
-            <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+          <first_editor relative-caret-position="195">
+            <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
           </first_editor>
           <second_editor />
         </state>
