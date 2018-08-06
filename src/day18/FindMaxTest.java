@@ -94,7 +94,7 @@ class FindMaxTest {
         n75.right = n14;
 
         int result = FindMax.findMax(tree.root);
-        int expected = 75;
+        int expected = 75   ;
         System.out.println("Expected: " + expected);
         System.out.println("Result: " + result);
 
