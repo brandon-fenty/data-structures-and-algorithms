@@ -16,7 +16,7 @@ public class IsIdentical {
         qt1.add(tree1);
         qt2.add(tree2);
 
-        while (!qt1.isEmpty() || !qt2.isEmpty()) {
+        while (!qt1.isEmpty() && !qt2.isEmpty()) {
             TreeNode temp1 = qt1.peek();
             TreeNode temp2 = qt2.peek();
 

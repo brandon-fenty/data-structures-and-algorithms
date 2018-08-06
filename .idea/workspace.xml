@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2451a47b-02d9-4e24-b215-c3e84fd3b4a7" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day18/FindMaxTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day18/FindMaxTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day19/IsIdentical.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day19/IsIdentical.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,11 +46,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IsIdentical.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="IsIdentical.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/day19/IsIdentical.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+            <state relative-caret-position="95">
+              <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -58,11 +58,23 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/day19/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="225">
+                <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="IsIdenticalTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/day19/IsIdenticalTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="926">
-              <caret line="74" selection-start-line="74" selection-end-line="74" />
+            <state relative-caret-position="1330">
+              <caret line="94" column="23" selection-start-line="94" selection-start-column="23" selection-end-line="94" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -83,7 +95,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/day06/ListNode.java" />
         <option value="$PROJECT_DIR$/src/day06/LinkedListTest.java" />
         <option value="$PROJECT_DIR$/src/day07/Main.java" />
         <option value="$PROJECT_DIR$/src/day07/KthElementTest.java" />
@@ -134,6 +145,7 @@
         <option value="$PROJECT_DIR$/src/day18/FindMaxTest.java" />
         <option value="$PROJECT_DIR$/src/day19/IsIdenticalTest.java" />
         <option value="$PROJECT_DIR$/src/day19/IsIdentical.java" />
+        <option value="$PROJECT_DIR$/src/day19/README.md" />
       </list>
     </option>
   </component>
@@ -228,11 +240,11 @@
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/day19/assets" />
       <recent name="$PROJECT_DIR$/src/day18/assets" />
       <recent name="$PROJECT_DIR$/src/day17/assets" />
       <recent name="$PROJECT_DIR$/src/day15/assets" />
       <recent name="$PROJECT_DIR$/src/day14/assets" />
-      <recent name="$PROJECT_DIR$/src/day13/assets" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="day09" />
@@ -460,17 +472,11 @@
       <workItem from="1533226905131" duration="2816000" />
       <workItem from="1533425129147" duration="18000" />
       <workItem from="1533425374757" duration="95000" />
-      <workItem from="1533515559974" duration="3073000" />
+      <workItem from="1533515559974" duration="4943000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="IsIdenticalTest - 2018.08.05 at 18h 09m 24s.xml">
-      <configuration name="IsIdenticalTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IsIdenticalTest_isNotIdentical - 2018.08.05 at 18h 09m 41s.xml">
-      <configuration name="IsIdenticalTest.isNotIdentical" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="IsIdenticalTest_isNotIdentical - 2018.08.05 at 18h 11m 35s.xml">
       <configuration name="IsIdenticalTest.isNotIdentical" configurationId="JUnit" />
     </history-entry>
@@ -507,9 +513,15 @@
     <history-entry file="IsIdenticalTest_isNotIdentical - 2018.08.05 at 18h 26m 51s.xml">
       <configuration name="IsIdenticalTest.isNotIdentical" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="IsIdenticalTest_isNotIdentical - 2018.08.05 at 18h 26m 55s.xml">
+      <configuration name="IsIdenticalTest.isNotIdentical" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IsIdenticalTest_isNotIdenticalDiffVal - 2018.08.05 at 18h 28m 10s.xml">
+      <configuration name="IsIdenticalTest.isNotIdenticalDiffVal" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42947000" />
+    <option name="totallyTimeSpent" value="44817000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -526,16 +538,16 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.2910345" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.28551725" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32965517" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32965517" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20113085" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20113085" />
       <window_info anchor="right" id="Database" order="4" sideWeight="0.49931034" weight="0.32956383" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="4" sideWeight="0.5006896" side_tool="true" weight="0.32956383" />
@@ -590,24 +602,11 @@
           <properties />
           <option name="timeStamp" value="12" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/day19/IsIdentical.java</url>
-          <line>18</line>
-          <properties />
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
       </breakpoints>
       <option name="time" value="19" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/day01/ArrayReverseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/day09.java" />
     <entry file="file://$PROJECT_DIR$/src/day06/hasLoopTest.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -951,13 +950,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day19/IsIdenticalTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="926">
-          <caret line="74" selection-start-line="74" selection-end-line="74" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.0.0/junit-platform-commons-1.0.0.jar!/org/junit/platform/commons/util/ReflectionUtils.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="298">
@@ -965,13 +957,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/day19/IsIdenticalTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1330">
+          <caret line="94" column="23" selection-start-line="94" selection-start-column="23" selection-end-line="94" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/day19/IsIdentical.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        <state relative-caret-position="95">
+          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day19/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="225">
+            <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
