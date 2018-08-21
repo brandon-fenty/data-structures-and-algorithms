@@ -5,7 +5,7 @@ import java.util.Set;
 
 public class RepeatedWord {
 
-    public static String repeatedWord (String input) {
+    public static String repeatedWord(String input) {
         // Split the input string into an array that you can iterate over
         String[] arr = input.toLowerCase().split("[\\W\\d]+");
         // Create a hashset to keep track of all the words you've already seen
