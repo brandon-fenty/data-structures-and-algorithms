@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2451a47b-02d9-4e24-b215-c3e84fd3b4a7" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day31/RepeatedWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day31/RepeatedWord.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,10 +37,19 @@
         <entry file="file://$PROJECT_DIR$/src/day31/RepeatedWord.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="41" lean-forward="true" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+              <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RepeatedWordTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day31/RepeatedWordTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="32" column="33" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -50,8 +59,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -61,7 +70,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/day07/Main.java" />
         <option value="$PROJECT_DIR$/src/day07/KthElementTest.java" />
         <option value="$PROJECT_DIR$/src/day07/README.md" />
         <option value="$PROJECT_DIR$/src/day07/KthElement.java" />
@@ -111,6 +119,7 @@
         <option value="$PROJECT_DIR$/src/day19/IsIdenticalTest.java" />
         <option value="$PROJECT_DIR$/src/day19/IsIdentical.java" />
         <option value="$PROJECT_DIR$/src/day19/README.md" />
+        <option value="$PROJECT_DIR$/src/day31/RepeatedWordTest.java" />
         <option value="$PROJECT_DIR$/src/day31/RepeatedWord.java" />
       </list>
     </option>
@@ -184,11 +193,21 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="day31" />
       <recent name="day19" />
       <recent name="day18" />
       <recent name="day17" />
       <recent name="day16" />
-      <recent name="day14" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/day10/assets" />
+      <recent name="$PROJECT_DIR$/src/day08/assets" />
+      <recent name="$PROJECT_DIR$/src/day09/assets" />
+      <recent name="$PROJECT_DIR$/src/assets" />
+      <recent name="$PROJECT_DIR$/src/day07" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="day09" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -199,16 +218,6 @@
       <recent name="$PROJECT_DIR$/src/day17/assets" />
       <recent name="$PROJECT_DIR$/src/day15/assets" />
       <recent name="$PROJECT_DIR$/src/day14/assets" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="day09" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/day10/assets" />
-      <recent name="$PROJECT_DIR$/src/day08/assets" />
-      <recent name="$PROJECT_DIR$/src/day09/assets" />
-      <recent name="$PROJECT_DIR$/src/assets" />
-      <recent name="$PROJECT_DIR$/src/day07" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -223,33 +232,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RepeatedWord">
-    <configuration name="RepeatedWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day31.RepeatedWord" />
-      <module name="data-structures-and-algorithms" />
+  <component name="RunManager" selected="JUnit.RepeatedWordTest">
+    <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="RepeatedWordTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data-structures-and-algorithms" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="day31.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="IsIdenticalTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="data-structures-and-algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day19.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="day19" />
-      <option name="MAIN_CLASS_NAME" value="day19.IsIdenticalTest" />
+      <option name="PACKAGE_NAME" value="day31" />
+      <option name="MAIN_CLASS_NAME" value="day31.RepeatedWordTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -261,19 +259,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="IsIdenticalTest.isIdentical" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RepeatedWordTest.emptyString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="data-structures-and-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day19.*" />
+          <option name="PATTERN" value="day31.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="day19" />
-      <option name="MAIN_CLASS_NAME" value="day19.IsIdenticalTest" />
-      <option name="METHOD_NAME" value="isIdentical" />
+      <option name="PACKAGE_NAME" value="day31" />
+      <option name="MAIN_CLASS_NAME" value="day31.RepeatedWordTest" />
+      <option name="METHOD_NAME" value="emptyString" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -284,19 +282,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="IsIdenticalTest.isNotIdentical" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RepeatedWordTest.extraSpace" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="data-structures-and-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day19.*" />
+          <option name="PATTERN" value="day31.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="day19" />
-      <option name="MAIN_CLASS_NAME" value="day19.IsIdenticalTest" />
-      <option name="METHOD_NAME" value="isNotIdentical" />
+      <option name="PACKAGE_NAME" value="day31" />
+      <option name="MAIN_CLASS_NAME" value="day31.RepeatedWordTest" />
+      <option name="METHOD_NAME" value="extraSpace" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -307,19 +305,42 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="IsIdenticalTest.isNotIdenticalDiffVal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RepeatedWordTest.extraSpaces" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="data-structures-and-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day19.*" />
+          <option name="PATTERN" value="day31.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="day19" />
-      <option name="MAIN_CLASS_NAME" value="day19.IsIdenticalTest" />
-      <option name="METHOD_NAME" value="isNotIdenticalDiffVal" />
+      <option name="PACKAGE_NAME" value="day31" />
+      <option name="MAIN_CLASS_NAME" value="day31.RepeatedWordTest" />
+      <option name="METHOD_NAME" value="extraSpaces" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="RepeatedWordTest.repeatedWordShort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data-structures-and-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day31.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="day31" />
+      <option name="MAIN_CLASS_NAME" value="day31.RepeatedWordTest" />
+      <option name="METHOD_NAME" value="repeatedWordShort" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -369,19 +390,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.IsIdenticalTest.isNotIdentical" />
-      <item itemvalue="JUnit.IsIdenticalTest" />
-      <item itemvalue="JUnit.IsIdenticalTest.isIdentical" />
-      <item itemvalue="JUnit.IsIdenticalTest.isNotIdenticalDiffVal" />
-      <item itemvalue="Application.RepeatedWord" />
+      <item itemvalue="JUnit.RepeatedWordTest.repeatedWordShort" />
+      <item itemvalue="JUnit.RepeatedWordTest.emptyString" />
+      <item itemvalue="JUnit.RepeatedWordTest.extraSpace" />
+      <item itemvalue="JUnit.RepeatedWordTest.extraSpaces" />
+      <item itemvalue="JUnit.RepeatedWordTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RepeatedWord" />
-        <item itemvalue="JUnit.IsIdenticalTest.isNotIdenticalDiffVal" />
-        <item itemvalue="JUnit.IsIdenticalTest.isNotIdentical" />
-        <item itemvalue="JUnit.IsIdenticalTest" />
-        <item itemvalue="JUnit.IsIdenticalTest.isIdentical" />
+        <item itemvalue="JUnit.RepeatedWordTest" />
+        <item itemvalue="JUnit.RepeatedWordTest.extraSpaces" />
+        <item itemvalue="JUnit.RepeatedWordTest.extraSpace" />
+        <item itemvalue="JUnit.RepeatedWordTest.emptyString" />
+        <item itemvalue="JUnit.RepeatedWordTest.repeatedWordShort" />
       </list>
     </recent_temporary>
   </component>
@@ -415,56 +436,56 @@
       <workItem from="1533425129147" duration="18000" />
       <workItem from="1533425374757" duration="95000" />
       <workItem from="1533515559974" duration="5067000" />
-      <workItem from="1534866026017" duration="1471000" />
+      <workItem from="1534866026017" duration="2531000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="IsIdenticalTest_isNotIdentical - 2018.08.05 at 18h 11m 35s.xml">
-      <configuration name="IsIdenticalTest.isNotIdentical" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IsIdenticalTest_isNotIdentical - 2018.08.05 at 18h 11m 39s.xml">
-      <configuration name="IsIdenticalTest.isNotIdentical" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IsIdenticalTest_isNotIdentical - 2018.08.05 at 18h 18m 19s.xml">
-      <configuration name="IsIdenticalTest.isNotIdentical" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IsIdenticalTest_isNotIdentical - 2018.08.05 at 18h 18m 25s.xml">
-      <configuration name="IsIdenticalTest.isNotIdentical" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IsIdenticalTest_isNotIdentical - 2018.08.05 at 18h 20m 34s.xml">
-      <configuration name="IsIdenticalTest.isNotIdentical" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IsIdenticalTest_isNotIdentical - 2018.08.05 at 18h 20m 37s.xml">
-      <configuration name="IsIdenticalTest.isNotIdentical" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IsIdenticalTest_isNotIdentical - 2018.08.05 at 18h 22m 28s.xml">
-      <configuration name="IsIdenticalTest.isNotIdentical" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IsIdenticalTest_isNotIdentical - 2018.08.05 at 18h 22m 31s.xml">
-      <configuration name="IsIdenticalTest.isNotIdentical" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IsIdenticalTest_isNotIdentical - 2018.08.05 at 18h 22m 48s.xml">
-      <configuration name="IsIdenticalTest.isNotIdentical" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IsIdenticalTest_isNotIdentical - 2018.08.05 at 18h 23m 28s.xml">
-      <configuration name="IsIdenticalTest.isNotIdentical" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IsIdenticalTest_isNotIdentical - 2018.08.05 at 18h 24m 14s.xml">
-      <configuration name="IsIdenticalTest.isNotIdentical" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IsIdenticalTest_isNotIdentical - 2018.08.05 at 18h 26m 51s.xml">
-      <configuration name="IsIdenticalTest.isNotIdentical" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IsIdenticalTest_isNotIdentical - 2018.08.05 at 18h 26m 55s.xml">
-      <configuration name="IsIdenticalTest.isNotIdentical" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="IsIdenticalTest_isNotIdenticalDiffVal - 2018.08.05 at 18h 28m 10s.xml">
       <configuration name="IsIdenticalTest.isNotIdenticalDiffVal" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="RepeatedWordTest_repeatedWordShort - 2018.08.21 at 10h 30m 58s.xml">
+      <configuration name="RepeatedWordTest.repeatedWordShort" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RepeatedWordTest_emptyString - 2018.08.21 at 10h 31m 53s.xml">
+      <configuration name="RepeatedWordTest.emptyString" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RepeatedWordTest_emptyString - 2018.08.21 at 10h 32m 16s.xml">
+      <configuration name="RepeatedWordTest.emptyString" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RepeatedWordTest_extraSpace - 2018.08.21 at 10h 32m 19s.xml">
+      <configuration name="RepeatedWordTest.extraSpace" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RepeatedWordTest_extraSpaces - 2018.08.21 at 10h 32m 54s.xml">
+      <configuration name="RepeatedWordTest.extraSpaces" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RepeatedWordTest_extraSpaces - 2018.08.21 at 10h 33m 17s.xml">
+      <configuration name="RepeatedWordTest.extraSpaces" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RepeatedWordTest_extraSpaces - 2018.08.21 at 11h 27m 56s.xml">
+      <configuration name="RepeatedWordTest.extraSpaces" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RepeatedWordTest_extraSpaces - 2018.08.21 at 11h 28m 31s.xml">
+      <configuration name="RepeatedWordTest.extraSpaces" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RepeatedWordTest_extraSpaces - 2018.08.21 at 11h 28m 40s.xml">
+      <configuration name="RepeatedWordTest.extraSpaces" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RepeatedWordTest_extraSpaces - 2018.08.21 at 11h 30m 00s.xml">
+      <configuration name="RepeatedWordTest.extraSpaces" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RepeatedWordTest_extraSpaces - 2018.08.21 at 11h 30m 57s.xml">
+      <configuration name="RepeatedWordTest.extraSpaces" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RepeatedWordTest_extraSpaces - 2018.08.21 at 11h 31m 53s.xml">
+      <configuration name="RepeatedWordTest.extraSpaces" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RepeatedWordTest_extraSpaces - 2018.08.21 at 11h 34m 40s.xml">
+      <configuration name="RepeatedWordTest.extraSpaces" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46412000" />
+    <option name="totallyTimeSpent" value="47472000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -550,13 +571,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/day06/hasLoopTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="100" column="34" selection-start-line="100" selection-start-column="34" selection-end-line="100" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/day06/MergeListTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
@@ -920,10 +934,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/day31/RepeatedWordTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="32" column="33" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/day31/RepeatedWord.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="41" lean-forward="true" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
