@@ -7,30 +7,35 @@ import java.util.*;
 public class TreeIntersection {
 
    public static Set findMatches(TreeNode treeA, TreeNode treeB) {
+       // Declare two sets to keep track of the nodes you've seen
+       // While traversing each tree
        Set<Integer> sA = new HashSet<>();
        Set<Integer> sB = new HashSet<>();
-
+       // Recursively traverse the first tree, then the second passing
+       // the trees corresponding set along with it.
        depthFirstSearch(sA, treeA);
        depthFirstSearch(sB, treeB);
 
        System.out.println("Tree A: " + sA);
        System.out.println("Tree B: " + sB);
-
+       // Compare the first set against the second and remove any
+       // data that is unique to it
        sA.retainAll(sB);
-
+       // Return the modified set that now contains only matches
        return sA;
    }
 
    private static Set depthFirstSearch(Set set, TreeNode current) {
-        if (current == null) {
+       // Conditional to prevent the call stack from overflowing
+       if (current == null) {
             return set;
-        }
+       }
+       // Traverse the tree recursively using an in order approach
+       depthFirstSearch(set, current.left);
+       set.add(current.data);
+       depthFirstSearch(set, current.right);
 
-        depthFirstSearch(set, current.left);
-        set.add(current.data);
-        depthFirstSearch(set, current.right);
-
-        return set;
+       return set;
    }
 
 
@@ -80,20 +85,4 @@ public class TreeIntersection {
 //
 //        return setA;
 //    }
-
-    @Override
-    public int hashCode() {
-        return Objects.hash(this);
-    }
-
-    @Override
-    public boolean equals(Object obj) {
-        if (!(obj instanceof TreeNode)) {
-            return false;
-        }
-        if (obj == this) {
-            return true;
-        }
-        return false;
-    }
 }

@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2451a47b-02d9-4e24-b215-c3e84fd3b4a7" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/day32/TreeIntersectionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/day32/TreeIntersection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day32/TreeIntersection.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -36,12 +38,8 @@
       <file leaf-file-name="TreeIntersection.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/day32/TreeIntersection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="46" column="29" lean-forward="true" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="29" />
-              <folding>
-                <element signature="e#3707#3708#0" expanded="true" />
-                <element signature="e#3748#3749#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="510">
+              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
             </state>
           </provider>
         </entry>
@@ -49,8 +47,8 @@
       <file leaf-file-name="TreeIntersectionTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/day32/TreeIntersectionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+            <state relative-caret-position="2">
+              <caret line="53" column="3" selection-start-line="53" selection-start-column="3" selection-end-line="53" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -425,23 +423,11 @@
       <workItem from="1533425374757" duration="95000" />
       <workItem from="1533515559974" duration="5067000" />
       <workItem from="1534866026017" duration="2769000" />
-      <workItem from="1534901304950" duration="9189000" />
+      <workItem from="1534901304950" duration="10342000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RepeatedWordTest_extraSpaces - 2018.08.21 at 11h 30m 00s.xml">
-      <configuration name="RepeatedWordTest.extraSpaces" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RepeatedWordTest_extraSpaces - 2018.08.21 at 11h 30m 57s.xml">
-      <configuration name="RepeatedWordTest.extraSpaces" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RepeatedWordTest_extraSpaces - 2018.08.21 at 11h 31m 53s.xml">
-      <configuration name="RepeatedWordTest.extraSpaces" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RepeatedWordTest_extraSpaces - 2018.08.21 at 11h 34m 40s.xml">
-      <configuration name="RepeatedWordTest.extraSpaces" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="RepeatedWordTest_extraSpaces - 2018.08.21 at 11h 36m 58s.xml">
       <configuration name="RepeatedWordTest.extraSpaces" configurationId="JUnit" />
     </history-entry>
@@ -472,9 +458,21 @@
     <history-entry file="TreeIntersectionTest_treeIntersection - 2018.08.22 at 09h 19m 33s.xml">
       <configuration name="TreeIntersectionTest.treeIntersection" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TreeIntersectionTest_treeIntersection - 2018.08.22 at 09h 20m 40s.xml">
+      <configuration name="TreeIntersectionTest.treeIntersection" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TreeIntersectionTest_treeIntersection - 2018.08.22 at 09h 21m 11s.xml">
+      <configuration name="TreeIntersectionTest.treeIntersection" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TreeIntersectionTest_treeIntersection - 2018.08.22 at 09h 21m 49s.xml">
+      <configuration name="TreeIntersectionTest.treeIntersection" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TreeIntersectionTest_treeIntersection - 2018.08.22 at 09h 29m 46s.xml">
+      <configuration name="TreeIntersectionTest.treeIntersection" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58761000" />
+    <option name="totallyTimeSpent" value="59914000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -491,7 +489,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2910345" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.28551725" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.0" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32965517" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22374798" />
@@ -913,19 +911,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/day32/TreeIntersectionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+        <state relative-caret-position="2">
+          <caret line="53" column="3" selection-start-line="53" selection-start-column="3" selection-end-line="53" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/day32/TreeIntersection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="46" column="29" lean-forward="true" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="29" />
-          <folding>
-            <element signature="e#3707#3708#0" expanded="true" />
-            <element signature="e#3748#3749#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="510">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
         </state>
       </provider>
     </entry>
