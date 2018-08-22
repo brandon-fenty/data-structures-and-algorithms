@@ -1,6 +1,5 @@
 package day32;
 
-import com.sun.source.tree.BinaryTree;
 import day16.TreeNode;
 
 import java.util.*;
@@ -74,47 +73,93 @@ public class TreeIntersection {
         System.out.println(result);
     }
 
-    public static Set treeIntersection(TreeNode treeA, TreeNode treeB) {
-        Set<TreeNode> setA = new HashSet<>();
-        Set<TreeNode> setB = new HashSet<>();
+   public static Set treeIntersection(TreeNode treeA, TreeNode treeB) {
+       Set<TreeNode> sA = new HashSet<>();
+       Set<TreeNode> sB = new HashSet<>();
 
-        Queue<TreeNode> qt1 = new LinkedList<>();
-        Queue<TreeNode> qt2 = new LinkedList<>();
+       depthFirstSearch(sA, treeA);
+       depthFirstSearch(sB, treeB);
 
-        qt1.add(treeA);
-        qt2.add(treeB);
+       System.out.println("Set A: " + sA);
+       System.out.println("Set B: " + sB);
+       sA.retainAll(sB);
 
-        setA.add(qt1.peek());
-        setB.add(qt2.peek());
+       return sA;
+   }
 
-        while (!qt1.isEmpty() && !qt2.isEmpty()) {
-            TreeNode temp1 = qt1.remove();
-            TreeNode temp2 = qt2.remove();
-
-
-            if (temp1.left != null) {
-                setA.add(temp1.left);
-                qt1.add(temp1.left);
-            }
-            if (temp1.right != null) {
-                setA.add(temp1.right);
-                qt1.add(temp1.right);
-            }
-            if (temp2.left != null) {
-                setB.add(temp2.left);
-                qt2.add(temp2.left);
-            }
-            if (temp2.right != null) {
-                setB.add(temp2.right);
-                qt2.add(temp2.right);
-            }
-
-//            System.out.println("Set A: " + setA);
-//            System.out.println("Set B: " + setB);
+   private static Set depthFirstSearch(Set set, TreeNode current) {
+        if (current == null) {
+            return set;
         }
 
-        setA.retainAll(setB);
+        depthFirstSearch(set, current.left);
+        set.add(current);
+        depthFirstSearch(set, current.right);
 
-        return setA;
+        return set;
+   }
+
+
+/*
+* Breadth First Traversal
+* */
+//    public static Set treeIntersection(TreeNode treeA, TreeNode treeB) {
+//        Set<TreeNode> setA = new HashSet<>();
+//        Set<TreeNode> setB = new HashSet<>();
+//
+//        Queue<TreeNode> qt1 = new LinkedList<>();
+//        Queue<TreeNode> qt2 = new LinkedList<>();
+//
+//        qt1.add(treeA);
+//        qt2.add(treeB);
+//
+//        setA.add(qt1.peek());
+//        setB.add(qt2.peek());
+//
+//        while (!qt1.isEmpty() && !qt2.isEmpty()) {
+//            TreeNode temp1 = qt1.remove();
+//            TreeNode temp2 = qt2.remove();
+//
+//
+//            if (temp1.left != null) {
+//                setA.add(temp1.left);
+//                qt1.add(temp1.left);
+//            }
+//            if (temp1.right != null) {
+//                setA.add(temp1.right);
+//                qt1.add(temp1.right);
+//            }
+//            if (temp2.left != null) {
+//                setB.add(temp2.left);
+//                qt2.add(temp2.left);
+//            }
+//            if (temp2.right != null) {
+//                setB.add(temp2.right);
+//                qt2.add(temp2.right);
+//            }
+//
+//            System.out.println("Set A: " + setA);
+//            System.out.println("Set B: " + setB);
+//        }
+//
+//        setA.retainAll(setB);
+//
+//        return setA;
+//    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(this);
+    }
+
+    @Override
+    public boolean equals(Object obj) {
+        if (!(obj instanceof TreeNode)) {
+            return false;
+        }
+        if (obj == this) {
+            return true;
+        }
+        return false;
     }
 }

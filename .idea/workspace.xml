@@ -3,13 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2451a47b-02d9-4e24-b215-c3e84fd3b4a7" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day16/FizzBuzzTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day16/FizzBuzzTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day16/FizzBuzzTreeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day16/FizzBuzzTreeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day16/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day16/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day17/BreadthFirstTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day17/BreadthFirstTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day18/FindMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day18/FindMax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day18/FindMaxTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day18/FindMaxTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day19/IsIdenticalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day19/IsIdenticalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day32/TreeIntersection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day32/TreeIntersection.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,88 +34,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BreadthFirstTraversal.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day17/BreadthFirstTraversal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="36" column="19" selection-end-line="65" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FizzBuzzTreeTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day16/FizzBuzzTreeTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="42" lean-forward="true" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FindMaxTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day18/FindMaxTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="28" lean-forward="true" selection-start-column="2" selection-end-line="102" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FindMax.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/day18/FindMax.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="21" lean-forward="true" selection-end-line="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IsIdenticalTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day19/IsIdenticalTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2610">
-              <caret line="174" column="3" lean-forward="true" selection-start-line="174" selection-start-column="3" selection-end-line="174" selection-end-column="3" />
-              <folding>
-                <element signature="e#0#5152#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IsIdentical.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day19/IsIdentical.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TreeIntersection.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TreeIntersection.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/day32/TreeIntersection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-56">
-              <caret line="53" column="42" selection-start-line="53" selection-start-column="42" selection-end-line="53" selection-end-column="42" />
+            <state relative-caret-position="511">
+              <caret line="100" column="9" selection-start-line="100" selection-start-column="9" selection-end-line="100" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TreeNode.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day16/TreeNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-              <folding>
-                <element signature="e#145#146#0" expanded="true" />
-                <element signature="e#176#177#0" expanded="true" />
-                <element signature="e#205#206#0" expanded="true" />
-                <element signature="e#232#233#0" expanded="true" />
+                <element signature="e#3941#3942#0" expanded="true" />
+                <element signature="e#3982#3983#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -130,10 +51,19 @@
       <file leaf-file-name="FizzBuzzTree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/day16/FizzBuzzTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-start-column="2" selection-end-line="47" selection-end-column="3" />
+            <state relative-caret-position="68">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FizzBuzzTreeTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day16/FizzBuzzTreeTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
               <folding>
-                <element signature="e#0#1434#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -198,14 +128,14 @@
         <option value="$PROJECT_DIR$/src/day32/BTree.java" />
         <option value="$PROJECT_DIR$/src/day32/BinaryTree.java" />
         <option value="$PROJECT_DIR$/src/day32/Tree.java" />
-        <option value="$PROJECT_DIR$/src/day32/TreeIntersection.java" />
-        <option value="$PROJECT_DIR$/src/day16/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/day16/FizzBuzzTree.java" />
+        <option value="$PROJECT_DIR$/src/day18/FindMax.java" />
         <option value="$PROJECT_DIR$/src/day19/IsIdenticalTest.java" />
-        <option value="$PROJECT_DIR$/src/day17/BreadthFirstTraversal.java" />
         <option value="$PROJECT_DIR$/src/day16/FizzBuzzTreeTest.java" />
         <option value="$PROJECT_DIR$/src/day18/FindMaxTest.java" />
-        <option value="$PROJECT_DIR$/src/day18/FindMax.java" />
+        <option value="$PROJECT_DIR$/src/day17/BreadthFirstTraversal.java" />
+        <option value="$PROJECT_DIR$/src/day16/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/day16/FizzBuzzTree.java" />
+        <option value="$PROJECT_DIR$/src/day32/TreeIntersection.java" />
       </list>
     </option>
   </component>
@@ -219,10 +149,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="637" />
-    <option name="y" value="23" />
-    <option name="width" value="643" />
-    <option name="height" value="712" />
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -256,19 +184,7 @@
               <item name="data-structures-and-algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="data-structures-and-algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="day17" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="data-structures-and-algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="data-structures-and-algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="day18" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="data-structures-and-algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="data-structures-and-algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="day19" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="data-structures-and-algorithms" type="b2602c69:ProjectViewProjectNode" />
@@ -357,6 +273,29 @@
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
+    <configuration name="FizzBuzzTreeTest.fizzBuzzTree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data-structures-and-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="day16" />
+      <option name="MAIN_CLASS_NAME" value="day16.FizzBuzzTreeTest" />
+      <option name="METHOD_NAME" value="fizzBuzzTree" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
     <configuration name="RepeatedWordTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="data-structures-and-algorithms" />
       <extension name="coverage">
@@ -371,29 +310,6 @@
       <option name="MAIN_CLASS_NAME" value="day31.RepeatedWordTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="RepeatedWordTest.emptyString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="data-structures-and-algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day31.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="day31" />
-      <option name="MAIN_CLASS_NAME" value="day31.RepeatedWordTest" />
-      <option name="METHOD_NAME" value="emptyString" />
-      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -488,19 +404,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.RepeatedWordTest.emptyString" />
       <item itemvalue="JUnit.RepeatedWordTest.extraSpace" />
       <item itemvalue="JUnit.RepeatedWordTest.extraSpaces" />
       <item itemvalue="JUnit.RepeatedWordTest" />
       <item itemvalue="Application.TreeIntersection" />
+      <item itemvalue="JUnit.FizzBuzzTreeTest.fizzBuzzTree" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.TreeIntersection" />
+        <item itemvalue="JUnit.FizzBuzzTreeTest.fizzBuzzTree" />
         <item itemvalue="JUnit.RepeatedWordTest" />
         <item itemvalue="JUnit.RepeatedWordTest.extraSpaces" />
         <item itemvalue="JUnit.RepeatedWordTest.extraSpace" />
-        <item itemvalue="JUnit.RepeatedWordTest.emptyString" />
       </list>
     </recent_temporary>
   </component>
@@ -535,14 +451,11 @@
       <workItem from="1533425374757" duration="95000" />
       <workItem from="1533515559974" duration="5067000" />
       <workItem from="1534866026017" duration="2769000" />
-      <workItem from="1534901304950" duration="2995000" />
+      <workItem from="1534901304950" duration="7569000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RepeatedWordTest_extraSpace - 2018.08.21 at 10h 32m 19s.xml">
-      <configuration name="RepeatedWordTest.extraSpace" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="RepeatedWordTest_extraSpaces - 2018.08.21 at 10h 32m 54s.xml">
       <configuration name="RepeatedWordTest.extraSpaces" configurationId="JUnit" />
     </history-entry>
@@ -582,9 +495,12 @@
     <history-entry file="RepeatedWordTest - 2018.08.21 at 11h 40m 25s.xml">
       <configuration name="RepeatedWordTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="FizzBuzzTreeTest_fizzBuzzTree - 2018.08.21 at 21h 47m 00s.xml">
+      <configuration name="FizzBuzzTreeTest.fizzBuzzTree" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52567000" />
+    <option name="totallyTimeSpent" value="57141000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -592,7 +508,7 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" visible="true" weight="0.32965517" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32965517" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -601,16 +517,16 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.2910345" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.28551725" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.0" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32965517" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22374798" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22374798" />
       <window_info anchor="right" id="Database" order="4" sideWeight="0.49931034" weight="0.32956383" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.0" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="4" sideWeight="0.5006896" side_tool="true" weight="0.32956383" />
@@ -666,7 +582,7 @@
           <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="19" />
+      <option name="time" value="21" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -958,20 +874,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day19/IsIdentical.java">
+    <entry file="file://$PROJECT_DIR$/src/day19/IsIdenticalTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="1496">
+          <caret line="174" column="1" lean-forward="true" selection-end-line="174" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day32/TreeIntersection.java">
+    <entry file="file://$PROJECT_DIR$/src/day18/FindMaxTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-56">
-          <caret line="53" column="42" selection-start-line="53" selection-start-column="42" selection-end-line="53" selection-end-column="42" />
+        <state relative-caret-position="60">
+          <caret line="4" column="26" lean-forward="true" selection-end-line="102" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day17/BreadthFirstTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="17" selection-end-line="65" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -980,8 +903,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/day16/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        <state relative-caret-position="105">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
           <folding>
             <element signature="e#145#146#0" expanded="true" />
             <element signature="e#176#177#0" expanded="true" />
@@ -991,51 +914,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day16/FizzBuzzTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-start-column="2" selection-end-line="47" selection-end-column="3" />
-          <folding>
-            <element signature="e#0#1434#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day19/IsIdenticalTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2610">
-          <caret line="174" column="3" lean-forward="true" selection-start-line="174" selection-start-column="3" selection-end-line="174" selection-end-column="3" />
-          <folding>
-            <element signature="e#0#5152#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day17/BreadthFirstTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="36" column="19" selection-end-line="65" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/day16/FizzBuzzTreeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="42" lean-forward="true" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+        <state relative-caret-position="140">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day18/FindMaxTest.java">
+    <entry file="file://$PROJECT_DIR$/src/day16/FizzBuzzTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="28" lean-forward="true" selection-start-column="2" selection-end-line="102" selection-end-column="3" />
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day19/IsIdentical.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/day18/FindMax.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="21" lean-forward="true" selection-end-line="43" />
+        <state relative-caret-position="270">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day32/TreeIntersection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="100" column="9" selection-start-line="100" selection-start-column="9" selection-end-line="100" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3941#3942#0" expanded="true" />
+            <element signature="e#3982#3983#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
