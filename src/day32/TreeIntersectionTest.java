@@ -3,6 +3,7 @@ package day32;
 import day16.TreeNode;
 import org.junit.jupiter.api.Test;
 
+import java.util.HashSet;
 import java.util.Set;
 
 import static org.junit.jupiter.api.Assertions.*;
@@ -74,6 +75,54 @@ class TreeIntersectionTest {
         b350.right = b500;
 
         Set<TreeNode> result = TreeIntersection.findMatches(treeA.root, treeB.root);
+
+        Set<Integer> expected = new HashSet<>();
+        expected.add(160);
+        expected.add(100);
+        expected.add(500);
+        expected.add(200);
+        expected.add(125);
+        expected.add(350);
+        expected.add(175);
+
+        System.out.println("Expected: " + expected);
         System.out.println("Result: " + result);
+        assertEquals(expected, result);
+    }
+
+    @Test
+    void oneValueTrees() {
+        Tree treeA = new Tree();
+        TreeNode a150 = new TreeNode(150);
+        treeA.root = a150;
+
+        Tree treeB = new Tree();
+        TreeNode b42 = new TreeNode(42);
+        treeB.root = b42;
+
+        Set<TreeNode> result = TreeIntersection.findMatches(treeA.root, treeB.root);
+
+        Set<Integer> expected = new HashSet<>();
+
+        System.out.println("Expected: " + expected);
+        System.out.println("Result: " + result);
+
+        assertEquals(expected, result);
+    }
+
+    @Test
+    void emptyTrees() {
+        Tree treeA = new Tree();
+
+        Tree treeB = new Tree();
+
+        Set<TreeNode> result = TreeIntersection.findMatches(treeA.root, treeB.root);
+
+        Set<Integer> expected = new HashSet<>();
+
+        System.out.println("Expected: " + expected);
+        System.out.println("Result: " + result);
+
+        assertEquals(expected, result);
     }
 }
