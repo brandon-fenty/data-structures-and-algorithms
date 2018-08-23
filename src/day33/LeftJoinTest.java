@@ -12,15 +12,14 @@ class LeftJoinTest {
 
     @Test
     void joinMapsLeft() {
-        Map<Object, Object> map1 = new HashMap<>();
-        Map<Object, Object> map2 = new HashMap<>();
-
+        Map<String, String> map1 = new HashMap<>();
         map1.put("fond", "enamored");
         map1.put("wrath", "anger");
         map1.put("diligent", "employed");
         map1.put("outfit", "garb");
         map1.put("guide", "usher");
 
+        Map<String, String> map2 = new HashMap<>();
         map2.put("fond", "averse");
         map2.put("wrath", "delight");
         map2.put("diligent", "idle");
@@ -38,8 +37,8 @@ class LeftJoinTest {
 
     @Test
     void joinMapsRight() {
-        Map<Object, Object> map1 = new HashMap<>();
-        Map<Object, Object> map2 = new HashMap<>();
+        Map<String, String> map1 = new HashMap<>();
+        Map<String, String> map2 = new HashMap<>();
 
         map1.put("fond", "enamored");
         map1.put("wrath", "anger");
