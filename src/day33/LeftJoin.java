@@ -7,11 +7,11 @@ import java.util.Map;
 
 public class LeftJoin {
 
-    public static Map<Object, List<Object>> joinMaps(String joinType, Map mapA, Map mapB) {
+    public static Map<String, List<String>> joinMaps(String joinType, Map<String, String> mapA, Map<String, String> mapB) {
         // Initialize a new map to merge keys/values into
-        Map<Object, List<Object>> resultMap = new HashMap<>();
+        Map<String, List<String>> resultMap = new HashMap<>();
         // Parameterize join type for stretch goal
-        Map<Object, Object> mapToggle = new HashMap<>();
+        Map<String, String> mapToggle = new HashMap<>();
 
         if (joinType == "left") {
             mapToggle = mapA;
@@ -19,9 +19,9 @@ public class LeftJoin {
             mapToggle = mapB;
         }
 
-        for (Object key : mapToggle.keySet()) {
+        for (String key : mapToggle.keySet()) {
             // Declare a array list to put values that resets each time the loop cycles
-            List<Object> putValues = new ArrayList<>();
+            List<String> putValues = new ArrayList<>();
             // Add the values to array list
             putValues.add(mapA.get(key));
             putValues.add(mapB.get(key));
