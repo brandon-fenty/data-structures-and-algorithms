@@ -137,7 +137,7 @@ public class LinkedList {
 
     // Whiteboard 07 challenge
     public ListNode kthElement (int k) {
-        int elCount = size();
+        int elCount = this.size();
         ListNode tempNode = this.root;
 
         // Get the value
@@ -156,8 +156,9 @@ public class LinkedList {
         ListNode cur1 = ll1.root;
         ListNode cur2 = ll2.root;
 
-        // set the root of the temp list to the root of list 1 and create a new node
-        // with the
+        // set the root of the temp list to the root of list 1 by creating a new
+        // node from the data of list 1's root, then append the root of list 2
+        // to the temp list
         temp.root = new ListNode(cur1.data);
         temp.append(cur2.data);
 
@@ -208,7 +209,7 @@ public class LinkedList {
                 // they are on the same node and there is a loop in the list
                 if (cur1 == cur2) {
                     loopDetected = true;
-                    break;
+                    return loopDetected;
                 }
             }
         }
@@ -246,7 +247,7 @@ public class LinkedList {
                 //      prev  fut
             }
             // At the end of the while loop, previous will be set to the last
-            // value of the original list, this node now becomes the root2
+            // value of the original list, this node now becomes the root
             ll.root = previous;
         } else {
             System.out.println("Your list is empty");
