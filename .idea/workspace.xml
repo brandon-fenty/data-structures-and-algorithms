@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2451a47b-02d9-4e24-b215-c3e84fd3b4a7" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day06/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/day06/LinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day03/ArrayBinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day03/ArrayBinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day06/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day06/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day36/MergeSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day36/MergeSortTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,20 +45,30 @@
       <file leaf-file-name="MergeSort.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/day36/MergeSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="450">
+              <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MergeSortTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MergeSortTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/day36/MergeSortTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+            <state relative-caret-position="300">
+              <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/day36/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -484,20 +491,11 @@
       <workItem from="1535058466205" duration="1307000" />
       <workItem from="1535232391886" duration="211000" />
       <workItem from="1535330644015" duration="3146000" />
-      <workItem from="1535471982206" duration="3810000" />
+      <workItem from="1535471982206" duration="4119000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MergeSortTest_sort - 2018.08.28 at 11h 05m 15s.xml">
-      <configuration name="MergeSortTest.sort" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MergeSortTest_sort - 2018.08.28 at 11h 05m 50s.xml">
-      <configuration name="MergeSortTest.sort" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MergeSortTest_sort - 2018.08.28 at 11h 12m 07s.xml">
-      <configuration name="MergeSortTest.sort" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="MergeSortTest_sort - 2018.08.28 at 11h 12m 23s.xml">
       <configuration name="MergeSortTest.sort" configurationId="JUnit" />
     </history-entry>
@@ -531,9 +529,18 @@
     <history-entry file="MergeSortTest_sort - 2018.08.28 at 11h 47m 11s.xml">
       <configuration name="MergeSortTest.sort" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="MergeSortTest_sort - 2018.08.28 at 11h 47m 15s.xml">
+      <configuration name="MergeSortTest.sort" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MergeSortTest_sort - 2018.08.28 at 11h 47m 49s.xml">
+      <configuration name="MergeSortTest.sort" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MergeSortTest_sort - 2018.08.28 at 11h 50m 39s.xml">
+      <configuration name="MergeSortTest.sort" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75722000" />
+    <option name="totallyTimeSpent" value="76031000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="608" y="23" width="672" height="704" extended-state="0" />
@@ -549,18 +556,18 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.28551725" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.27512357" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.0" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40381557" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.0" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.0" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37142858" />
       <window_info anchor="right" id="Database" order="4" sideWeight="0.49931034" weight="0.32956383" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3294893" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3294893" />
       <window_info anchor="right" id="Coverage" order="4" sideWeight="0.5006896" side_tool="true" weight="0.32956383" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -614,20 +621,11 @@
           <properties />
           <option name="timeStamp" value="12" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/day36/MergeSort.java</url>
-          <line>20</line>
-          <properties />
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
       </breakpoints>
       <option name="time" value="25" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/day14/assets/max-stack.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/day14/MaxStackTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1215">
@@ -961,18 +959,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/day36/MergeSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="450">
+          <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/day36/MergeSortTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        <state relative-caret-position="300">
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day36/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
