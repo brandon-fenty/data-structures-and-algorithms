@@ -14,7 +14,7 @@ public class ArrayBinarySearch {
                 high = middle - 1;
 
             } else if (key > arr[middle]) {
-                low = middle +1;
+                low = middle + 1;
             } else {
                 return middle;
             }
