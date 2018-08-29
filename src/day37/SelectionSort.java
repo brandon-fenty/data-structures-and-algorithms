@@ -13,35 +13,31 @@ public class SelectionSort {
         System.out.println(Arrays.toString(copy));
 
         System.out.println("Sorted: " + Arrays.toString(selectSort(arr10k)));
-        System.out.println("Is it actually sorted? " + isSorted(arr10k));
+        System.out.println("Is it actually sorted? " + isSorted(selectSort(arr10k)));
     }
 
     public static double[] selectSort(double[] input) {
         for (int i = 0; i < input.length - 1; i++) {
-            int minIndex = i;
+            int min = i;
 
-            for (int nextIndex = i + 1; nextIndex < input.length; nextIndex++) {
-                if (input[nextIndex] < input[minIndex]) {
-                    minIndex = nextIndex;
+            for (int j = i + 1; j < input.length; j++) {
+                if (input[j] < input[min]) {
+                    min = j;
                 }
-
-                double temp = input[minIndex];
-                input[minIndex] = input[i];
-                input[i] = temp;
             }
+            double tempStorage = input[i];
+            input[i] = input[min];
+            input[min] = tempStorage;
         }
         return input;
     }
 
     public static boolean isSorted(double[] input) {
-        int index = 1;
-
-        for (double data : input) {
-            if (input[index] < input[index - 1]) {
+        for (int i = 0; i < input.length - 1; i++) {
+            if (input[i + 1] < input[i]) {
                 return false;
             }
         }
-
         return true;
     }
 
