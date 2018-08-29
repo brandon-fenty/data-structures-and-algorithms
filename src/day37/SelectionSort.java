@@ -11,6 +11,29 @@ public class SelectionSort {
         System.out.println(Arrays.toString(arr10k));
         System.out.println("Size of copy: " + copy.length);
         System.out.println(Arrays.toString(copy));
+
+        System.out.println("Sorted: " + Arrays.toString(selectSort(arr10k)));
+    }
+
+    public static double[] selectSort(double[] input) {
+        for (int i = 0; i < input.length - 1; i++) {
+            int minIndex = i;
+
+            for (int nextIndex = i + 1; nextIndex < input.length; nextIndex++) {
+                if (input[nextIndex] < input[minIndex]) {
+                    minIndex = nextIndex;
+                }
+
+                double temp = input[minIndex];
+                input[minIndex] = input[i];
+                input[i] = temp;
+            }
+        }
+        return input;
+    }
+
+    public static boolean isSorted() {
+
     }
 
     public static double[] duplicator(double[] original) {
