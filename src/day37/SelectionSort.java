@@ -13,6 +13,7 @@ public class SelectionSort {
         System.out.println(Arrays.toString(copy));
 
         System.out.println("Sorted: " + Arrays.toString(selectSort(arr10k)));
+        System.out.println("Is it actually sorted? " + isSorted(arr10k));
     }
 
     public static double[] selectSort(double[] input) {
@@ -32,8 +33,16 @@ public class SelectionSort {
         return input;
     }
 
-    public static boolean isSorted() {
+    public static boolean isSorted(double[] input) {
+        int index = 1;
 
+        for (double data : input) {
+            if (input[index] < input[index - 1]) {
+                return false;
+            }
+        }
+
+        return true;
     }
 
     public static double[] duplicator(double[] original) {
